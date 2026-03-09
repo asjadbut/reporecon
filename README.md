@@ -1,2 +1,7 @@
-# reporecon
-RepoRecon is an open-source tool that aggregates repositories from bug bounty program scopes across platforms like HackerOne, Bugcrowd, Intigriti, and YesWeHack to help security researchers quickly discover open-source targets.
+# RepoRecon
+
+RepoRecon helps bug bounty hunters discover open-source repositories that are in scope across multiple bug bounty platforms.
+
+Instead of manually searching program scope pages, RepoRecon aggregates repositories from platforms like HackerOne, Bugcrowd, Intigriti, and YesWeHack into a searchable dataset.
+
+This allows security researchers to quickly find new open-source targets for vulnerability research.
