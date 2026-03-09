@@ -9,8 +9,9 @@ platform_files = {
     "yeswehack": "yeswehack_data.json"
 }
 
+# match github/gitlab repos even with extra paths
 repo_regex = re.compile(
-    r"https?://(github\.com|gitlab\.com|bitbucket\.org|sr\.ht|gitea\.com)/[^/\s]+/[^/\s]+",
+    r"(https?://)?(github\.com|gitlab\.com|bitbucket\.org|sr\.ht|gitea\.com)/([^/\s]+)/([^/\s]+)",
     re.I
 )
 
@@ -31,21 +32,27 @@ for platform, file in platform_files.items():
 
         for scope in program.get("scope", []):
 
-            target = scope.get("target", "")
+            target = scope.get("target", "").strip()
+
             match = repo_regex.search(target)
 
             if match:
+
+                repo_url = f"https://{match.group(2)}/{match.group(3)}/{match.group(4)}"
 
                 results.append({
                     "platform": platform,
                     "program": program_name,
                     "program_url": program_url,
-                    "repo": match.group()
+                    "repo": repo_url
                 })
+
+# remove duplicates
+unique = {item["repo"]: item for item in results}
 
 os.makedirs("data", exist_ok=True)
 
 with open("data/repos.json", "w") as f:
-    json.dump(results, f, indent=2)
+    json.dump(list(unique.values()), f, indent=2)
 
-print(f"Extracted {len(results)} repositories")
+print(f"Extracted {len(unique)} repositories")
