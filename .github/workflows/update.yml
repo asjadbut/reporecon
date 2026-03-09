@@ -26,17 +26,12 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-      
-      # 4 Copy dataset files
-      - name: Copy dataset files
-        run: |
-          cp bounty-targets-data/data/*.json .
           
-      # 5 Run the extraction script
+      # 4 Run the extraction script
       - name: Run RepoRecon extraction
         run: python scripts/extract_repos.py
 
-      # 6 Commit and push updated repos.json
+      # 5 Commit and push updated repos.json
       - name: Commit updated dataset
         run: |
           git config --global user.name "github-actions"
