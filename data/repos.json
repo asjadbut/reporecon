@@ -1,1 +1,3314 @@
-[]
+[
+  {
+    "platform": "bugcrowd",
+    "program": "Aiven Managed Bug Bounty",
+    "program_url": "https://bugcrowd.com/engagements/aiven-mbb-og",
+    "repo_url": "https://github.com/Aiven-Open",
+    "repo_host": "github.com",
+    "org": "Aiven-Open",
+    "repo_name": ""
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Aiven Managed Bug Bounty",
+    "program_url": "https://bugcrowd.com/engagements/aiven-mbb-og",
+    "repo_url": "https://github.com/Aiven",
+    "repo_host": "github.com",
+    "org": "Aiven",
+    "repo_name": ""
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Auth0 by Okta",
+    "program_url": "https://bugcrowd.com/engagements/auth0-okta",
+    "repo_url": "https://github.com/auth0/auth0.js",
+    "repo_host": "github.com",
+    "org": "auth0",
+    "repo_name": "auth0.js"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Auth0 by Okta",
+    "program_url": "https://bugcrowd.com/engagements/auth0-okta",
+    "repo_url": "https://github.com/auth0/lock",
+    "repo_host": "github.com",
+    "org": "auth0",
+    "repo_name": "lock"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Auth0 by Okta",
+    "program_url": "https://bugcrowd.com/engagements/auth0-okta",
+    "repo_url": "https://github.com/auth0/auth0-spa-js",
+    "repo_host": "github.com",
+    "org": "auth0",
+    "repo_name": "auth0-spa-js"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Auth0 by Okta",
+    "program_url": "https://bugcrowd.com/engagements/auth0-okta",
+    "repo_url": "https://github.com/auth0/Auth0.Net",
+    "repo_host": "github.com",
+    "org": "auth0",
+    "repo_name": "Auth0.Net"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Auth0 by Okta",
+    "program_url": "https://bugcrowd.com/engagements/auth0-okta",
+    "repo_url": "https://github.com/auth0/nextjs-auth0",
+    "repo_host": "github.com",
+    "org": "auth0",
+    "repo_name": "nextjs-auth0"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Auth0 by Okta",
+    "program_url": "https://bugcrowd.com/engagements/auth0-okta",
+    "repo_url": "https://github.com/auth0/auth0-java",
+    "repo_host": "github.com",
+    "org": "auth0",
+    "repo_name": "auth0-java"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Auth0 by Okta",
+    "program_url": "https://bugcrowd.com/engagements/auth0-okta",
+    "repo_url": "https://github.com/auth0/react-native-auth0",
+    "repo_host": "github.com",
+    "org": "auth0",
+    "repo_name": "react-native-auth0"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Auth0 by Okta",
+    "program_url": "https://bugcrowd.com/engagements/auth0-okta",
+    "repo_url": "https://github.com/auth0/auth0-php",
+    "repo_host": "github.com",
+    "org": "auth0",
+    "repo_name": "auth0-php"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Auth0 by Okta",
+    "program_url": "https://bugcrowd.com/engagements/auth0-okta",
+    "repo_url": "https://github.com/auth0/passport-wsfed-saml2",
+    "repo_host": "github.com",
+    "org": "auth0",
+    "repo_name": "passport-wsfed-saml2"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Binance",
+    "program_url": "https://bugcrowd.com/engagements/binance",
+    "repo_url": "https://github.com/trustwallet/wallet-core",
+    "repo_host": "github.com",
+    "org": "trustwallet",
+    "repo_name": "wallet-core/"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Block Open Source",
+    "program_url": "https://bugcrowd.com/engagements/blockopensource",
+    "repo_url": "https://github.com/afterpay/sdk-ios",
+    "repo_host": "github.com",
+    "org": "afterpay",
+    "repo_name": "sdk-ios"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Block Open Source",
+    "program_url": "https://bugcrowd.com/engagements/blockopensource",
+    "repo_url": "https://github.com/afterpay/sdk-android",
+    "repo_host": "github.com",
+    "org": "afterpay",
+    "repo_name": "sdk-android"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Block Open Source",
+    "program_url": "https://bugcrowd.com/engagements/blockopensource",
+    "repo_url": "https://github.com/cashapp/cash-app-pay-ios-sdk",
+    "repo_host": "github.com",
+    "org": "cashapp",
+    "repo_name": "cash-app-pay-ios-sdk"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Block Open Source",
+    "program_url": "https://bugcrowd.com/engagements/blockopensource",
+    "repo_url": "https://github.com/cashapp/cash-app-pay-android-sdk",
+    "repo_host": "github.com",
+    "org": "cashapp",
+    "repo_name": "cash-app-pay-android-sdk"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Block Open Source",
+    "program_url": "https://bugcrowd.com/engagements/blockopensource",
+    "repo_url": "https://github.com/cashapp/hermit",
+    "repo_host": "github.com",
+    "org": "cashapp",
+    "repo_name": "hermit"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Block Open Source",
+    "program_url": "https://bugcrowd.com/engagements/blockopensource",
+    "repo_url": "https://github.com/cashapp/misk",
+    "repo_host": "github.com",
+    "org": "cashapp",
+    "repo_name": "misk"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Block Open Source",
+    "program_url": "https://bugcrowd.com/engagements/blockopensource",
+    "repo_url": "https://github.com/square/okhttp",
+    "repo_host": "github.com",
+    "org": "square",
+    "repo_name": "okhttp"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Block Open Source",
+    "program_url": "https://bugcrowd.com/engagements/blockopensource",
+    "repo_url": "https://github.com/square/okio",
+    "repo_host": "github.com",
+    "org": "square",
+    "repo_name": "okio"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Block Open Source",
+    "program_url": "https://bugcrowd.com/engagements/blockopensource",
+    "repo_url": "https://github.com/square/wire",
+    "repo_host": "github.com",
+    "org": "square",
+    "repo_name": "wire"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "ClickHouse",
+    "program_url": "https://bugcrowd.com/engagements/clickhouse",
+    "repo_url": "https://github.com/ClickHouse/ClickHouse",
+    "repo_host": "github.com",
+    "org": "ClickHouse",
+    "repo_name": "ClickHouse"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Fireblocks MPC Managed Bug Bounty Engagement",
+    "program_url": "https://bugcrowd.com/engagements/fireblocks-mbb-og2",
+    "repo_url": "https://github.com/fireblocks/mpc-lib",
+    "repo_host": "github.com",
+    "org": "fireblocks",
+    "repo_name": "mpc-lib"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "SecureDrop",
+    "program_url": "https://bugcrowd.com/engagements/freedomofpress",
+    "repo_url": "https://github.com/freedomofpress/securedrop",
+    "repo_host": "github.com",
+    "org": "freedomofpress",
+    "repo_name": "securedrop"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "SecureDrop",
+    "program_url": "https://bugcrowd.com/engagements/freedomofpress",
+    "repo_url": "https://github.com/freedomofpress/securedrop-workstation",
+    "repo_host": "github.com",
+    "org": "freedomofpress",
+    "repo_name": "securedrop-workstation"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "SecureDrop",
+    "program_url": "https://bugcrowd.com/engagements/freedomofpress",
+    "repo_url": "https://github.com/freedomofpress/securedrop-client",
+    "repo_host": "github.com",
+    "org": "freedomofpress",
+    "repo_name": "securedrop-client"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Immutable Bug Bounty",
+    "program_url": "https://bugcrowd.com/engagements/immutable",
+    "repo_url": "https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport",
+    "repo_host": "github.com",
+    "org": "immutable",
+    "repo_name": "ts-immutable-sdk/tree/main/packages/passport/"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Just Eat Takeaway.com",
+    "program_url": "https://bugcrowd.com/engagements/justeattakeaway",
+    "repo_url": "https://github.com/justeattakeaway",
+    "repo_host": "github.com",
+    "org": "justeattakeaway",
+    "repo_name": ""
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Electroneum Legacy Blockchain: EOL",
+    "program_url": "https://bugcrowd.com/engagements/legacy-blockchain-mbb-og",
+    "repo_url": "https://github.com/electroneum/electroneum",
+    "repo_host": "github.com",
+    "org": "electroneum",
+    "repo_name": "electroneum/"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Mattermost Public Bug Bounty Engagement ",
+    "program_url": "https://bugcrowd.com/engagements/mattermost-mbb-public",
+    "repo_url": "https://github.com/mattermost/mattermost-plugin-jira",
+    "repo_host": "github.com",
+    "org": "mattermost",
+    "repo_name": "mattermost-plugin-jira"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Mattermost Public Bug Bounty Engagement ",
+    "program_url": "https://bugcrowd.com/engagements/mattermost-mbb-public",
+    "repo_url": "https://github.com/mattermost/mattermost-plugin-zoom",
+    "repo_host": "github.com",
+    "org": "mattermost",
+    "repo_name": "mattermost-plugin-zoom"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Mattermost Public Bug Bounty Engagement ",
+    "program_url": "https://bugcrowd.com/engagements/mattermost-mbb-public",
+    "repo_url": "https://github.com/mattermost/mattermost-plugin-github",
+    "repo_host": "github.com",
+    "org": "mattermost",
+    "repo_name": "mattermost-plugin-github"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Mattermost Public Bug Bounty Engagement ",
+    "program_url": "https://bugcrowd.com/engagements/mattermost-mbb-public",
+    "repo_url": "https://github.com/mattermost/mattermost-plugin-gitlab",
+    "repo_host": "github.com",
+    "org": "mattermost",
+    "repo_name": "mattermost-plugin-gitlab"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Mattermost Public Bug Bounty Engagement ",
+    "program_url": "https://bugcrowd.com/engagements/mattermost-mbb-public",
+    "repo_url": "https://github.com/mattermost/mattermost-plugin-calls",
+    "repo_host": "github.com",
+    "org": "mattermost",
+    "repo_name": "mattermost-plugin-calls"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Mattermost Public Bug Bounty Engagement ",
+    "program_url": "https://bugcrowd.com/engagements/mattermost-mbb-public",
+    "repo_url": "https://github.com/mattermost/mattermost-plugin-playbooks",
+    "repo_host": "github.com",
+    "org": "mattermost",
+    "repo_name": "mattermost-plugin-playbooks"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Mattermost Public Bug Bounty Engagement ",
+    "program_url": "https://bugcrowd.com/engagements/mattermost-mbb-public",
+    "repo_url": "https://github.com/mattermost/mattermost-plugin-boards",
+    "repo_host": "github.com",
+    "org": "mattermost",
+    "repo_name": "mattermost-plugin-boards"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Mattermost Public Bug Bounty Engagement ",
+    "program_url": "https://bugcrowd.com/engagements/mattermost-mbb-public",
+    "repo_url": "https://github.com/mattermost/mattermost-plugin-ai",
+    "repo_host": "github.com",
+    "org": "mattermost",
+    "repo_name": "mattermost-plugin-ai"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Mattermost Public Bug Bounty Engagement ",
+    "program_url": "https://bugcrowd.com/engagements/mattermost-mbb-public",
+    "repo_url": "https://github.com/mattermost/mattermost-plugin-mscalendar",
+    "repo_host": "github.com",
+    "org": "mattermost",
+    "repo_name": "mattermost-plugin-mscalendar"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Mattermost Public Bug Bounty Engagement ",
+    "program_url": "https://bugcrowd.com/engagements/mattermost-mbb-public",
+    "repo_url": "https://github.com/mattermost/mattermost-plugin-msteams-meetings",
+    "repo_host": "github.com",
+    "org": "mattermost",
+    "repo_name": "mattermost-plugin-msteams-meetings"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Mattermost Public Bug Bounty Engagement ",
+    "program_url": "https://bugcrowd.com/engagements/mattermost-mbb-public",
+    "repo_url": "https://github.com/mattermost/mattermost-plugin-confluence",
+    "repo_host": "github.com",
+    "org": "mattermost",
+    "repo_name": "mattermost-plugin-confluence"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Mattermost Public Bug Bounty Engagement ",
+    "program_url": "https://bugcrowd.com/engagements/mattermost-mbb-public",
+    "repo_url": "https://github.com/mattermost/mattermost-plugin-msteams",
+    "repo_host": "github.com",
+    "org": "mattermost",
+    "repo_name": "mattermost-plugin-msteams"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Octopus",
+    "program_url": "https://bugcrowd.com/engagements/octopus-og",
+    "repo_url": "https://github.com/OctopusDeploy",
+    "repo_host": "github.com",
+    "org": "OctopusDeploy",
+    "repo_name": ""
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "OpenAI",
+    "program_url": "https://bugcrowd.com/engagements/openai",
+    "repo_url": "https://github.com/openai/codex",
+    "repo_host": "github.com",
+    "org": "openai",
+    "repo_name": "codex/"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "OpenSea Managed Bug Bounty Program",
+    "program_url": "https://bugcrowd.com/engagements/opensea",
+    "repo_url": "https://github.com/ProjectOpenSea/seaport#deployments",
+    "repo_host": "github.com",
+    "org": "ProjectOpenSea",
+    "repo_name": "seaport#deployments"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Pinterest",
+    "program_url": "https://bugcrowd.com/engagements/pinterest",
+    "repo_url": "https://github.com/pinterest",
+    "repo_host": "github.com",
+    "org": "pinterest",
+    "repo_name": ""
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Electroneum Smart Chain (ETN-SC) — EVM-Compatible Blockchain",
+    "program_url": "https://bugcrowd.com/engagements/smartchain-mbb-og",
+    "repo_url": "https://github.com/electroneum/electroneum-sc",
+    "repo_host": "github.com",
+    "org": "electroneum",
+    "repo_name": "electroneum-sc/"
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Infinite Athlete",
+    "program_url": "https://bugcrowd.com/engagements/tempusex-public-mbb-og",
+    "repo_url": "https://github.com/tempus-ex",
+    "repo_host": "github.com",
+    "org": "tempus-ex",
+    "repo_name": ""
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Wise (ex-TransferWise)",
+    "program_url": "https://bugcrowd.com/engagements/wise",
+    "repo_url": "https://github.com/transferwise/*",
+    "repo_host": "github.com",
+    "org": "transferwise",
+    "repo_name": "*"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel Open Source",
+    "program_url": "https://hackerone.com/vercel-open-source",
+    "repo_url": "https://github.com/nitrojs/nitro",
+    "repo_host": "github.com",
+    "org": "nitrojs",
+    "repo_name": "nitro"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel Open Source",
+    "program_url": "https://hackerone.com/vercel-open-source",
+    "repo_url": "https://github.com/nuxt/nuxt",
+    "repo_host": "github.com",
+    "org": "nuxt",
+    "repo_name": "nuxt"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel Open Source",
+    "program_url": "https://hackerone.com/vercel-open-source",
+    "repo_url": "https://github.com/sveltejs/svelte",
+    "repo_host": "github.com",
+    "org": "sveltejs",
+    "repo_name": "svelte"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel Open Source",
+    "program_url": "https://hackerone.com/vercel-open-source",
+    "repo_url": "https://github.com/vercel-labs/agent-skills",
+    "repo_host": "github.com",
+    "org": "vercel-labs",
+    "repo_name": "agent-skills"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel Open Source",
+    "program_url": "https://hackerone.com/vercel-open-source",
+    "repo_url": "https://github.com/vercel-labs/skills",
+    "repo_host": "github.com",
+    "org": "vercel-labs",
+    "repo_name": "skills"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel Open Source",
+    "program_url": "https://hackerone.com/vercel-open-source",
+    "repo_url": "https://github.com/vercel/ai",
+    "repo_host": "github.com",
+    "org": "vercel",
+    "repo_name": "ai"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel Open Source",
+    "program_url": "https://hackerone.com/vercel-open-source",
+    "repo_url": "https://github.com/vercel/async-sema",
+    "repo_host": "github.com",
+    "org": "vercel",
+    "repo_name": "async-sema"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel Open Source",
+    "program_url": "https://hackerone.com/vercel-open-source",
+    "repo_url": "https://github.com/vercel/flags",
+    "repo_host": "github.com",
+    "org": "vercel",
+    "repo_name": "flags"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel Open Source",
+    "program_url": "https://hackerone.com/vercel-open-source",
+    "repo_url": "https://github.com/vercel/ms",
+    "repo_host": "github.com",
+    "org": "vercel",
+    "repo_name": "ms"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel Open Source",
+    "program_url": "https://hackerone.com/vercel-open-source",
+    "repo_url": "https://github.com/vercel/next.js",
+    "repo_host": "github.com",
+    "org": "vercel",
+    "repo_name": "next.js"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel Open Source",
+    "program_url": "https://hackerone.com/vercel-open-source",
+    "repo_url": "https://github.com/vercel/swr",
+    "repo_host": "github.com",
+    "org": "vercel",
+    "repo_name": "swr"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel Open Source",
+    "program_url": "https://hackerone.com/vercel-open-source",
+    "repo_url": "https://github.com/vercel/turborepo",
+    "repo_host": "github.com",
+    "org": "vercel",
+    "repo_name": "turborepo"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel Open Source",
+    "program_url": "https://hackerone.com/vercel-open-source",
+    "repo_url": "https://github.com/vercel/vercel",
+    "repo_host": "github.com",
+    "org": "vercel",
+    "repo_name": "vercel"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel Open Source",
+    "program_url": "https://hackerone.com/vercel-open-source",
+    "repo_url": "https://github.com/vercel/workflow",
+    "repo_host": "github.com",
+    "org": "vercel",
+    "repo_name": "workflow"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/amazon-research",
+    "repo_host": "github.com",
+    "org": "amazon-research",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/amazonlinux/amazon-linux-2023",
+    "repo_host": "github.com",
+    "org": "amazonlinux",
+    "repo_name": "amazon-linux-2023"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/aws-samples",
+    "repo_host": "github.com",
+    "org": "aws-samples",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/aws/amazon-ecs-agent",
+    "repo_host": "github.com",
+    "org": "aws",
+    "repo_name": "amazon-ecs-agent"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/aws/amazon-ecs-cli",
+    "repo_host": "github.com",
+    "org": "aws",
+    "repo_name": "amazon-ecs-cli"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/aws/amazon-vpc-cni-k8s",
+    "repo_host": "github.com",
+    "org": "aws",
+    "repo_name": "amazon-vpc-cni-k8s"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/aws/aws-cdk",
+    "repo_host": "github.com",
+    "org": "aws",
+    "repo_name": "aws-cdk"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/aws/aws-cli",
+    "repo_host": "github.com",
+    "org": "aws",
+    "repo_name": "aws-cli"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/aws/aws-sdk",
+    "repo_host": "github.com",
+    "org": "aws",
+    "repo_name": "aws-sdk"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/aws/s2n-tls",
+    "repo_host": "github.com",
+    "org": "aws",
+    "repo_name": "s2n-tls"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/kubernetes-sigs/aws-ebs-csi-driver",
+    "repo_host": "github.com",
+    "org": "kubernetes-sigs",
+    "repo_name": "aws-ebs-csi-driver"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/kubernetes-sigs/aws-efs-csi-driver",
+    "repo_host": "github.com",
+    "org": "kubernetes-sigs",
+    "repo_name": "aws-efs-csi-driver"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/kubernetes-sigs/aws-encryption-provider",
+    "repo_host": "github.com",
+    "org": "kubernetes-sigs",
+    "repo_name": "aws-encryption-provider"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/kubernetes-sigs/aws-fsx-csi-driver",
+    "repo_host": "github.com",
+    "org": "kubernetes-sigs",
+    "repo_name": "aws-fsx-csi-driver"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/kubernetes-sigs/aws-iam-authenticator",
+    "repo_host": "github.com",
+    "org": "kubernetes-sigs",
+    "repo_name": "aws-iam-authenticator"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/kubernetes-sigs/aws-load-balancer-controller",
+    "repo_host": "github.com",
+    "org": "kubernetes-sigs",
+    "repo_name": "aws-load-balancer-controller"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/kubernetes-sigs/cluster-api-provider-aws",
+    "repo_host": "github.com",
+    "org": "kubernetes-sigs",
+    "repo_name": "cluster-api-provider-aws"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Supabase",
+    "program_url": "https://hackerone.com/supabase",
+    "repo_url": "https://github.com/supabase",
+    "repo_host": "github.com",
+    "org": "supabase",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Supabase",
+    "program_url": "https://hackerone.com/supabase",
+    "repo_url": "https://github.com/supabase-community/supabase-mcp",
+    "repo_host": "github.com",
+    "org": "supabase-community",
+    "repo_name": "supabase-mcp"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/noble-cctp",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "noble-cctp"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/aptos-cctp",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "aptos-cctp"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/buidl-wallet-contracts",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "buidl-wallet-contracts"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/evm-cctp-contracts",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "evm-cctp-contracts"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/evm-cpn-contracts",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "evm-cpn-contracts"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/evm-gateway-contracts",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "evm-gateway-contracts"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/evm-xreserve-contracts",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "evm-xreserve-contracts"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/malachite",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "malachite"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/noble-fiattokenfactory",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "noble-fiattokenfactory"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/solana-cctp-contracts",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "solana-cctp-contracts"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/solana-gateway-contracts",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "solana-gateway-contracts"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/stablecoin-aptos",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "stablecoin-aptos"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/stablecoin-evm",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "stablecoin-evm"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/stablecoin-near",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "stablecoin-near"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/stablecoin-starknet",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "stablecoin-starknet"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/stablecoin-sui",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "stablecoin-sui"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/starknet-cctp",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "starknet-cctp"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/sui-cctp",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "sui-cctp"
+  },
+  {
+    "platform": "hackerone",
+    "program": "TomTom",
+    "program_url": "https://hackerone.com/tomtom",
+    "repo_url": "https://github.com/tomtom-international/*",
+    "repo_host": "github.com",
+    "org": "tomtom-international",
+    "repo_name": "*"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Chia Network",
+    "program_url": "https://hackerone.com/chia_network",
+    "repo_url": "https://github.com/Chia-Network/chia-blockchain",
+    "repo_host": "github.com",
+    "org": "Chia-Network",
+    "repo_name": "chia-blockchain"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Chia Network",
+    "program_url": "https://hackerone.com/chia_network",
+    "repo_url": "https://github.com/Chia-Network/chia-blockchain-gui",
+    "repo_host": "github.com",
+    "org": "Chia-Network",
+    "repo_name": "chia-blockchain-gui"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Chia Network",
+    "program_url": "https://hackerone.com/chia_network",
+    "repo_url": "https://github.com/Chia-Network/chia_rs",
+    "repo_host": "github.com",
+    "org": "Chia-Network",
+    "repo_name": "chia_rs"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Chia Network",
+    "program_url": "https://hackerone.com/chia_network",
+    "repo_url": "https://github.com/Chia-Network/chiapos",
+    "repo_host": "github.com",
+    "org": "Chia-Network",
+    "repo_name": "chiapos"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Chia Network",
+    "program_url": "https://hackerone.com/chia_network",
+    "repo_url": "https://github.com/Chia-Network/chiavdf",
+    "repo_host": "github.com",
+    "org": "Chia-Network",
+    "repo_name": "chiavdf"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Chia Network",
+    "program_url": "https://hackerone.com/chia_network",
+    "repo_url": "https://github.com/Chia-Network/clvm_rs",
+    "repo_host": "github.com",
+    "org": "Chia-Network",
+    "repo_name": "clvm_rs"
+  },
+  {
+    "platform": "hackerone",
+    "program": "DailyPay VDP",
+    "program_url": "https://hackerone.com/dailypay_vdp",
+    "repo_url": "https://github.com/dailypay/*",
+    "repo_host": "github.com",
+    "org": "dailypay",
+    "repo_name": "*"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Lightspark BBP",
+    "program_url": "https://hackerone.com/lightspark_bbp",
+    "repo_url": "https://github.com/buildonspark/spark",
+    "repo_host": "github.com",
+    "org": "buildonspark",
+    "repo_name": "spark"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Lightspark BBP",
+    "program_url": "https://hackerone.com/lightspark_bbp",
+    "repo_url": "https://github.com/lightsparkdev/go-sdk",
+    "repo_host": "github.com",
+    "org": "lightsparkdev",
+    "repo_name": "go-sdk"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Lightspark BBP",
+    "program_url": "https://hackerone.com/lightspark_bbp",
+    "repo_url": "https://github.com/lightsparkdev/lightspark-rs",
+    "repo_host": "github.com",
+    "org": "lightsparkdev",
+    "repo_name": "lightspark-rs"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Lightspark BBP",
+    "program_url": "https://hackerone.com/lightspark_bbp",
+    "repo_url": "https://github.com/lightsparkdev/python-sdk",
+    "repo_host": "github.com",
+    "org": "lightsparkdev",
+    "repo_name": "python-sdk"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Tools for Humanity",
+    "program_url": "https://hackerone.com/toolsforhumanity",
+    "repo_url": "https://github.com/worldcoin",
+    "repo_host": "github.com",
+    "org": "worldcoin",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "TRON DAO",
+    "program_url": "https://hackerone.com/tron_dao",
+    "repo_url": "https://github.com/tronprotocol/java-tron",
+    "repo_host": "github.com",
+    "org": "tronprotocol",
+    "repo_name": "java-tron"
+  },
+  {
+    "platform": "hackerone",
+    "program": "U.S. Department of State",
+    "program_url": "https://hackerone.com/us-department-of-state",
+    "repo_url": "https://github.com/USStateDept",
+    "repo_host": "github.com",
+    "org": "USStateDept",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "MetaMask",
+    "program_url": "https://hackerone.com/metamask",
+    "repo_url": "https://github.com/Web3Auth/web3auth-web",
+    "repo_host": "github.com",
+    "org": "Web3Auth",
+    "repo_name": "web3auth-web"
+  },
+  {
+    "platform": "hackerone",
+    "program": "PagerDuty",
+    "program_url": "https://hackerone.com/pagerduty",
+    "repo_url": "https://github.com/rundeck/rundeck",
+    "repo_host": "github.com",
+    "org": "rundeck",
+    "repo_name": "rundeck"
+  },
+  {
+    "platform": "hackerone",
+    "program": "PagerDuty",
+    "program_url": "https://hackerone.com/pagerduty",
+    "repo_url": "https://github.com/rundeck/rundeck-cli",
+    "repo_host": "github.com",
+    "org": "rundeck",
+    "repo_name": "rundeck-cli"
+  },
+  {
+    "platform": "hackerone",
+    "program": "MoonPay ",
+    "program_url": "https://hackerone.com/moonpay",
+    "repo_url": "https://github.com/moonpay",
+    "repo_host": "github.com",
+    "org": "moonpay",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Internet Bug Bounty",
+    "program_url": "https://hackerone.com/ibb",
+    "repo_url": "https://github.com/Electron",
+    "repo_host": "github.com",
+    "org": "Electron",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Internet Bug Bounty",
+    "program_url": "https://hackerone.com/ibb",
+    "repo_url": "https://github.com/Nginx",
+    "repo_host": "github.com",
+    "org": "Nginx",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Internet Bug Bounty",
+    "program_url": "https://hackerone.com/ibb",
+    "repo_url": "https://github.com/apache/airflow",
+    "repo_host": "github.com",
+    "org": "apache",
+    "repo_name": "airflow"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Internet Bug Bounty",
+    "program_url": "https://hackerone.com/ibb",
+    "repo_url": "https://github.com/apache/httpd",
+    "repo_host": "github.com",
+    "org": "apache",
+    "repo_name": "httpd"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Internet Bug Bounty",
+    "program_url": "https://hackerone.com/ibb",
+    "repo_url": "https://github.com/apache/tomcat",
+    "repo_host": "github.com",
+    "org": "apache",
+    "repo_name": "tomcat"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Internet Bug Bounty",
+    "program_url": "https://hackerone.com/ibb",
+    "repo_url": "https://github.com/argoproj/argoproj",
+    "repo_host": "github.com",
+    "org": "argoproj",
+    "repo_name": "argoproj"
+  },
+  {
+    "platform": "hackerone",
+    "program": "curl",
+    "program_url": "https://hackerone.com/curl",
+    "repo_url": "https://github.com/curl/curl",
+    "repo_host": "github.com",
+    "org": "curl",
+    "repo_name": "curl"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Internet Bug Bounty",
+    "program_url": "https://hackerone.com/ibb",
+    "repo_url": "https://github.com/django",
+    "repo_host": "github.com",
+    "org": "django",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Internet Bug Bounty",
+    "program_url": "https://hackerone.com/ibb",
+    "repo_url": "https://github.com/libuv/libuv",
+    "repo_host": "github.com",
+    "org": "libuv",
+    "repo_name": "libuv"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Node.js",
+    "program_url": "https://hackerone.com/nodejs",
+    "repo_url": "https://github.com/nodejs/node",
+    "repo_host": "github.com",
+    "org": "nodejs",
+    "repo_name": "node"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Internet Bug Bounty",
+    "program_url": "https://hackerone.com/ibb",
+    "repo_url": "https://github.com/openssl/openssl",
+    "repo_host": "github.com",
+    "org": "openssl",
+    "repo_name": "openssl"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Internet Bug Bounty",
+    "program_url": "https://hackerone.com/ibb",
+    "repo_url": "https://github.com/rack/rack",
+    "repo_host": "github.com",
+    "org": "rack",
+    "repo_name": "rack"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Internet Bug Bounty",
+    "program_url": "https://hackerone.com/ibb",
+    "repo_url": "https://github.com/rails",
+    "repo_host": "github.com",
+    "org": "rails",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Internet Bug Bounty",
+    "program_url": "https://hackerone.com/ibb",
+    "repo_url": "https://github.com/ruby",
+    "repo_host": "github.com",
+    "org": "ruby",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "RubyGems",
+    "program_url": "https://hackerone.com/rubygems",
+    "repo_url": "https://github.com/rubygems/rubygems",
+    "repo_host": "github.com",
+    "org": "rubygems",
+    "repo_name": "rubygems"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Internet Bug Bounty",
+    "program_url": "https://hackerone.com/ibb",
+    "repo_url": "https://github.com/rust-lang/rust",
+    "repo_host": "github.com",
+    "org": "rust-lang",
+    "repo_name": "rust"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Internet Bug Bounty",
+    "program_url": "https://hackerone.com/ibb",
+    "repo_url": "https://github.com/spiffe/spiffe",
+    "repo_host": "github.com",
+    "org": "spiffe",
+    "repo_name": "spiffe"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Internet Bug Bounty",
+    "program_url": "https://hackerone.com/ibb",
+    "repo_url": "https://github.com/spiffe/spire",
+    "repo_host": "github.com",
+    "org": "spiffe",
+    "repo_name": "spire"
+  },
+  {
+    "platform": "hackerone",
+    "program": "WHO COVID-19 Mobile App",
+    "program_url": "https://hackerone.com/who-covid-19-mobile-app",
+    "repo_url": "https://github.com/WorldHealthOrganization/app",
+    "repo_host": "github.com",
+    "org": "WorldHealthOrganization",
+    "repo_name": "app"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Doppler",
+    "program_url": "https://hackerone.com/doppler",
+    "repo_url": "https://github.com/DopplerHQ/cli",
+    "repo_host": "github.com",
+    "org": "DopplerHQ",
+    "repo_name": "cli"
+  },
+  {
+    "platform": "hackerone",
+    "program": "OpenMage",
+    "program_url": "https://hackerone.com/openmage",
+    "repo_url": "https://github.com/OpenMage/magento-lts",
+    "repo_host": "github.com",
+    "org": "OpenMage",
+    "repo_name": "magento-lts"
+  },
+  {
+    "platform": "hackerone",
+    "program": "8x8",
+    "program_url": "https://hackerone.com/8x8-bounty",
+    "repo_url": "https://github.com/jitsi",
+    "repo_host": "github.com",
+    "org": "jitsi",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes-csi",
+    "repo_host": "github.com",
+    "org": "kubernetes-csi",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes-retired",
+    "repo_host": "github.com",
+    "org": "kubernetes-retired",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes-client",
+    "repo_host": "github.com",
+    "org": "kubernetes-client",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes-incubator",
+    "repo_host": "github.com",
+    "org": "kubernetes-incubator",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes-security",
+    "repo_host": "github.com",
+    "org": "kubernetes-security",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes-sigs",
+    "repo_host": "github.com",
+    "org": "kubernetes-sigs",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/api",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "api"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/apiextensions-apiserver",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "apiextensions-apiserver"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/apimachinery",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "apimachinery"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/apiserver",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "apiserver"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/autoscaler",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "autoscaler"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/cli-runtime",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "cli-runtime"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/client-go",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "client-go"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/cloud-provider",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "cloud-provider"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/cloud-provider-alibaba-cloud",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "cloud-provider-alibaba-cloud"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/cloud-provider-aws",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "cloud-provider-aws"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/cloud-provider-azure",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "cloud-provider-azure"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/cloud-provider-gcp",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "cloud-provider-gcp"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/cloud-provider-openstack",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "cloud-provider-openstack"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/cloud-provider-sample",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "cloud-provider-sample"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/cloud-provider-vsphere",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "cloud-provider-vsphere"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/cluster-bootstrap",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "cluster-bootstrap"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/cluster-registry",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "cluster-registry"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/code-generator",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "code-generator"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/community",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "community"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/component-base",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "component-base"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/cri-api",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "cri-api"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/csi-api",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "csi-api"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/csi-translation-lib",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "csi-translation-lib"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/dashboard",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "dashboard"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/dns",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "dns"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/enhancements",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "enhancements"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/examples",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "examples"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/frakti",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "frakti"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/funding",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "funding"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/gengo",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "gengo"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/git-sync",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "git-sync"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/k8s.io",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "k8s.io"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/klog",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "klog"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/kompose",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "kompose"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/kops",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "kops"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/kube-aggregator",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "kube-aggregator"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/kube-controller-manager",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "kube-controller-manager"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/kube-deploy",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "kube-deploy"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/kube-openapi",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "kube-openapi"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/kube-proxy",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "kube-proxy"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/kube-scheduler",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "kube-scheduler"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/kube-state-metrics",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "kube-state-metrics"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/kubeadm",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "kubeadm"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/kubectl",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "kubectl"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/kubelet",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "kubelet"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/kubernetes",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "kubernetes"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/kubernetes-anywhere",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "kubernetes-anywhere"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/kubernetes-template-project",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "kubernetes-template-project"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/legacy-cloud-providers",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "legacy-cloud-providers"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/metrics",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "metrics"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/minikube",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "minikube"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/node-api",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "node-api"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/node-problem-detector",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "node-problem-detector"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/org",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "org"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/perf-tests",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "perf-tests"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/publishing-bot",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "publishing-bot"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/release",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "release"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/repo-infra",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "repo-infra"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/sample-apiserver",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "sample-apiserver"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/sample-cli-plugin",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "sample-cli-plugin"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/sample-controller",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "sample-controller"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/security",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "security"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/sig-release",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "sig-release"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/steering",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "steering"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/test-infra",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "test-infra"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/utils",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "utils"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kubernetes",
+    "program_url": "https://hackerone.com/kubernetes",
+    "repo_url": "https://github.com/kubernetes/website",
+    "repo_host": "github.com",
+    "org": "kubernetes",
+    "repo_name": "website"
+  },
+  {
+    "platform": "hackerone",
+    "program": "DefectDojo",
+    "program_url": "https://hackerone.com/defectdojo",
+    "repo_url": "https://github.com/DefectDojo/django-DefectDojo",
+    "repo_host": "github.com",
+    "org": "DefectDojo",
+    "repo_name": "django-DefectDojo"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Dynatrace",
+    "program_url": "https://hackerone.com/dynatrace",
+    "repo_url": "https://github.com/Dynatrace",
+    "repo_host": "github.com",
+    "org": "Dynatrace",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "phpBB",
+    "program_url": "https://hackerone.com/phpbb",
+    "repo_url": "https://github.com/phpbb/phpbb",
+    "repo_host": "github.com",
+    "org": "phpbb",
+    "repo_name": "phpbb"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Python Cryptographic Authority",
+    "program_url": "https://hackerone.com/pyca",
+    "repo_url": "https://github.com/pyca/bcrypt",
+    "repo_host": "github.com",
+    "org": "pyca",
+    "repo_name": "bcrypt"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Python Cryptographic Authority",
+    "program_url": "https://hackerone.com/pyca",
+    "repo_url": "https://github.com/pyca/cryptography",
+    "repo_host": "github.com",
+    "org": "pyca",
+    "repo_name": "cryptography"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Python Cryptographic Authority",
+    "program_url": "https://hackerone.com/pyca",
+    "repo_url": "https://github.com/pyca/infra",
+    "repo_host": "github.com",
+    "org": "pyca",
+    "repo_name": "infra"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Python Cryptographic Authority",
+    "program_url": "https://hackerone.com/pyca",
+    "repo_url": "https://github.com/pyca/pynacl",
+    "repo_host": "github.com",
+    "org": "pyca",
+    "repo_name": "pynacl"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Python Cryptographic Authority",
+    "program_url": "https://hackerone.com/pyca",
+    "repo_url": "https://github.com/pyca/pyopenssl",
+    "repo_host": "github.com",
+    "org": "pyca",
+    "repo_name": "pyopenssl"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Matomo",
+    "program_url": "https://hackerone.com/matomo",
+    "repo_url": "https://github.com/innocraft",
+    "repo_host": "github.com",
+    "org": "innocraft",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Matomo",
+    "program_url": "https://hackerone.com/matomo",
+    "repo_url": "https://github.com/matomo-org",
+    "repo_host": "github.com",
+    "org": "matomo-org",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Matomo",
+    "program_url": "https://hackerone.com/matomo",
+    "repo_url": "https://github.com/matomo-org/docker",
+    "repo_host": "github.com",
+    "org": "matomo-org",
+    "repo_name": "docker"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Matomo",
+    "program_url": "https://hackerone.com/matomo",
+    "repo_url": "https://github.com/matomo-org/matomo",
+    "repo_host": "github.com",
+    "org": "matomo-org",
+    "repo_name": "matomo"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Chainlink",
+    "program_url": "https://hackerone.com/chainlink",
+    "repo_url": "https://github.com/smartcontractkit/chainlink",
+    "repo_host": "github.com",
+    "org": "smartcontractkit",
+    "repo_name": "chainlink"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Chainlink",
+    "program_url": "https://hackerone.com/chainlink",
+    "repo_url": "https://github.com/smartcontractkit/chainlink-evm/tree/develop/contracts",
+    "repo_host": "github.com",
+    "org": "smartcontractkit",
+    "repo_name": "chainlink-evm/tree/develop/contracts"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Chainlink",
+    "program_url": "https://hackerone.com/chainlink",
+    "repo_url": "https://github.com/smartcontractkit/chainlink-solana/tree/develop/contracts",
+    "repo_host": "github.com",
+    "org": "smartcontractkit",
+    "repo_name": "chainlink-solana/tree/develop/contracts"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Chainlink",
+    "program_url": "https://hackerone.com/chainlink",
+    "repo_url": "https://github.com/smartcontractkit/external-adapters-js",
+    "repo_host": "github.com",
+    "org": "smartcontractkit",
+    "repo_name": "external-adapters-js/"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Chainlink",
+    "program_url": "https://hackerone.com/chainlink",
+    "repo_url": "https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts",
+    "repo_host": "github.com",
+    "org": "smartcontractkit",
+    "repo_name": "staking-v0.1/tree/master/contracts"
+  },
+  {
+    "platform": "hackerone",
+    "program": "arkadiyt-projects",
+    "program_url": "https://hackerone.com/arkadiyt-projects",
+    "repo_url": "https://github.com/arkadiyt/aws_public_ips",
+    "repo_host": "github.com",
+    "org": "arkadiyt",
+    "repo_name": "aws_public_ips"
+  },
+  {
+    "platform": "hackerone",
+    "program": "arkadiyt-projects",
+    "program_url": "https://hackerone.com/arkadiyt-projects",
+    "repo_url": "https://github.com/arkadiyt/bounty-targets",
+    "repo_host": "github.com",
+    "org": "arkadiyt",
+    "repo_name": "bounty-targets"
+  },
+  {
+    "platform": "hackerone",
+    "program": "arkadiyt-projects",
+    "program_url": "https://hackerone.com/arkadiyt-projects",
+    "repo_url": "https://github.com/arkadiyt/ddexport",
+    "repo_host": "github.com",
+    "org": "arkadiyt",
+    "repo_name": "ddexport"
+  },
+  {
+    "platform": "hackerone",
+    "program": "arkadiyt-projects",
+    "program_url": "https://hackerone.com/arkadiyt-projects",
+    "repo_url": "https://github.com/arkadiyt/free-ft",
+    "repo_host": "github.com",
+    "org": "arkadiyt",
+    "repo_name": "free-ft"
+  },
+  {
+    "platform": "hackerone",
+    "program": "arkadiyt-projects",
+    "program_url": "https://hackerone.com/arkadiyt-projects",
+    "repo_url": "https://github.com/arkadiyt/multiple-aws-sessions",
+    "repo_host": "github.com",
+    "org": "arkadiyt",
+    "repo_name": "multiple-aws-sessions"
+  },
+  {
+    "platform": "hackerone",
+    "program": "arkadiyt-projects",
+    "program_url": "https://hackerone.com/arkadiyt-projects",
+    "repo_url": "https://github.com/arkadiyt/protodump",
+    "repo_host": "github.com",
+    "org": "arkadiyt",
+    "repo_name": "protodump"
+  },
+  {
+    "platform": "hackerone",
+    "program": "arkadiyt-projects",
+    "program_url": "https://hackerone.com/arkadiyt-projects",
+    "repo_url": "https://github.com/arkadiyt/ssrf_filter",
+    "repo_host": "github.com",
+    "org": "arkadiyt",
+    "repo_name": "ssrf_filter"
+  },
+  {
+    "platform": "hackerone",
+    "program": "arkadiyt-projects",
+    "program_url": "https://hackerone.com/arkadiyt-projects",
+    "repo_url": "https://github.com/arkadiyt/zoom-redirector",
+    "repo_host": "github.com",
+    "org": "arkadiyt",
+    "repo_name": "zoom-redirector"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Cosmos",
+    "program_url": "https://hackerone.com/cosmos",
+    "repo_url": "https://github.com/cosmos/gaia",
+    "repo_host": "github.com",
+    "org": "cosmos",
+    "repo_name": "gaia"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Cosmos",
+    "program_url": "https://hackerone.com/cosmos",
+    "repo_url": "https://github.com/cosmos/iavl",
+    "repo_host": "github.com",
+    "org": "cosmos",
+    "repo_name": "iavl"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Cosmos",
+    "program_url": "https://hackerone.com/cosmos",
+    "repo_url": "https://github.com/cosmos/ics23",
+    "repo_host": "github.com",
+    "org": "cosmos",
+    "repo_name": "ics23"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Cosmos",
+    "program_url": "https://hackerone.com/cosmos",
+    "repo_url": "https://github.com/cosmos/ledger-cosmos",
+    "repo_host": "github.com",
+    "org": "cosmos",
+    "repo_name": "ledger-cosmos"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Cosmos",
+    "program_url": "https://hackerone.com/cosmos",
+    "repo_url": "https://github.com/iqlusioninc/crates/tree/main/signatory",
+    "repo_host": "github.com",
+    "org": "iqlusioninc",
+    "repo_name": "crates/tree/main/signatory"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Cosmos",
+    "program_url": "https://hackerone.com/cosmos",
+    "repo_url": "https://github.com/iqlusioninc/tmkms",
+    "repo_host": "github.com",
+    "org": "iqlusioninc",
+    "repo_name": "tmkms"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Cosmos",
+    "program_url": "https://hackerone.com/cosmos",
+    "repo_url": "https://github.com/iqlusioninc/yubihsm.rs",
+    "repo_host": "github.com",
+    "org": "iqlusioninc",
+    "repo_name": "yubihsm.rs"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Cosmos",
+    "program_url": "https://hackerone.com/cosmos",
+    "repo_url": "https://github.com/cosmos/evm",
+    "repo_host": "github.com",
+    "org": "cosmos",
+    "repo_name": "evm"
+  },
+  {
+    "platform": "hackerone",
+    "program": "DuckDuckGo",
+    "program_url": "https://hackerone.com/duckduckgo",
+    "repo_url": "https://github.com/duckduckgo/duckduckgo-privacy-extension",
+    "repo_host": "github.com",
+    "org": "duckduckgo",
+    "repo_name": "duckduckgo-privacy-extension"
+  },
+  {
+    "platform": "hackerone",
+    "program": "passhash",
+    "program_url": "https://hackerone.com/passhash",
+    "repo_url": "https://github.com/dhui/passhash",
+    "repo_host": "github.com",
+    "org": "dhui",
+    "repo_name": "passhash"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Valve",
+    "program_url": "https://hackerone.com/valve",
+    "repo_url": "https://github.com/valvesoftware",
+    "repo_host": "github.com",
+    "org": "valvesoftware",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Bitwarden",
+    "program_url": "https://hackerone.com/bitwarden",
+    "repo_url": "https://github.com/bitwarden",
+    "repo_host": "github.com",
+    "org": "bitwarden",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Spotify",
+    "program_url": "https://hackerone.com/spotify",
+    "repo_url": "https://github.com/backstage/backstage",
+    "repo_host": "github.com",
+    "org": "backstage",
+    "repo_name": "backstage"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Rocket.Chat",
+    "program_url": "https://hackerone.com/rocket_chat",
+    "repo_url": "https://github.com/RocketChat/Rocket.Chat",
+    "repo_host": "github.com",
+    "org": "RocketChat",
+    "repo_name": "Rocket.Chat"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Rocket.Chat",
+    "program_url": "https://hackerone.com/rocket_chat",
+    "repo_url": "https://github.com/RocketChat/Rocket.Chat.Electron",
+    "repo_host": "github.com",
+    "org": "RocketChat",
+    "repo_name": "Rocket.Chat.Electron"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Rocket.Chat",
+    "program_url": "https://hackerone.com/rocket_chat",
+    "repo_url": "https://github.com/RocketChat/Rocket.Chat.ReactNative",
+    "repo_host": "github.com",
+    "org": "RocketChat",
+    "repo_name": "Rocket.Chat.ReactNative"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Weblate",
+    "program_url": "https://hackerone.com/weblate",
+    "repo_url": "https://github.com/WeblateOrg/docker",
+    "repo_host": "github.com",
+    "org": "WeblateOrg",
+    "repo_name": "docker"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Weblate",
+    "program_url": "https://hackerone.com/weblate",
+    "repo_url": "https://github.com/WeblateOrg/translation-finder",
+    "repo_host": "github.com",
+    "org": "WeblateOrg",
+    "repo_name": "translation-finder"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Weblate",
+    "program_url": "https://hackerone.com/weblate",
+    "repo_url": "https://github.com/WeblateOrg/weblate",
+    "repo_host": "github.com",
+    "org": "WeblateOrg",
+    "repo_name": "weblate"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Weblate",
+    "program_url": "https://hackerone.com/weblate",
+    "repo_url": "https://github.com/WeblateOrg/website",
+    "repo_host": "github.com",
+    "org": "WeblateOrg",
+    "repo_name": "website"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Weblate",
+    "program_url": "https://hackerone.com/weblate",
+    "repo_url": "https://github.com/WeblateOrg/wlc",
+    "repo_host": "github.com",
+    "org": "WeblateOrg",
+    "repo_name": "wlc"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kiwi.com",
+    "program_url": "https://hackerone.com/kiwicom",
+    "repo_url": "https://github.com/kiwicom/*",
+    "repo_host": "github.com",
+    "org": "kiwicom",
+    "repo_name": "*"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Discourse",
+    "program_url": "https://hackerone.com/discourse",
+    "repo_url": "https://github.com/discourse/discourse",
+    "repo_host": "github.com",
+    "org": "discourse",
+    "repo_name": "discourse"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Plaid",
+    "program_url": "https://hackerone.com/plaid",
+    "repo_url": "https://github.com/plaid/plaid-link-android",
+    "repo_host": "github.com",
+    "org": "plaid",
+    "repo_name": "plaid-link-android"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Plaid",
+    "program_url": "https://hackerone.com/plaid",
+    "repo_url": "https://github.com/plaid/plaid-link-examples",
+    "repo_host": "github.com",
+    "org": "plaid",
+    "repo_name": "plaid-link-examples"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Plaid",
+    "program_url": "https://hackerone.com/plaid",
+    "repo_url": "https://github.com/plaid/plaid-link-ios",
+    "repo_host": "github.com",
+    "org": "plaid",
+    "repo_name": "plaid-link-ios"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Plaid",
+    "program_url": "https://hackerone.com/plaid",
+    "repo_url": "https://github.com/plaid/plaid-ruby",
+    "repo_host": "github.com",
+    "org": "plaid",
+    "repo_name": "plaid-ruby"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Plaid",
+    "program_url": "https://hackerone.com/plaid",
+    "repo_url": "https://github.com/plaid/react-native-plaid-link-sdk",
+    "repo_host": "github.com",
+    "org": "plaid",
+    "repo_name": "react-native-plaid-link-sdk"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Plaid",
+    "program_url": "https://hackerone.com/plaid",
+    "repo_url": "https://github.com/plaid/react-plaid-link",
+    "repo_host": "github.com",
+    "org": "plaid",
+    "repo_name": "react-plaid-link"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "repo_url": "https://github.com/brave/*,",
+    "repo_host": "github.com",
+    "org": "brave",
+    "repo_name": "*,"
+  },
+  {
+    "platform": "hackerone",
+    "program": "WordPress",
+    "program_url": "https://hackerone.com/wordpress",
+    "repo_url": "https://github.com/WordPress",
+    "repo_host": "github.com",
+    "org": "WordPress",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Nextcloud",
+    "program_url": "https://hackerone.com/nextcloud",
+    "repo_url": "https://github.com/nextcloud/collectives",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "collectives"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Nextcloud",
+    "program_url": "https://hackerone.com/nextcloud",
+    "repo_url": "https://github.com/nextcloud/files_confidential",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "files_confidential"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Nextcloud",
+    "program_url": "https://hackerone.com/nextcloud",
+    "repo_url": "https://github.com/nextcloud/tables",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "tables"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Nextcloud",
+    "program_url": "https://hackerone.com/nextcloud",
+    "repo_url": "https://github.com/roundcube/roundcubemail",
+    "repo_host": "github.com",
+    "org": "roundcube",
+    "repo_name": "roundcubemail"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Ruby",
+    "program_url": "https://hackerone.com/ruby",
+    "repo_url": "https://github.com/ruby/ruby",
+    "repo_host": "github.com",
+    "org": "ruby",
+    "repo_name": "ruby"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Deriv.com",
+    "program_url": "https://hackerone.com/deriv",
+    "repo_url": "https://github.com/binary-com",
+    "repo_host": "github.com",
+    "org": "binary-com",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Deriv.com",
+    "program_url": "https://hackerone.com/deriv",
+    "repo_url": "https://github.com/deriv-com",
+    "repo_host": "github.com",
+    "org": "deriv-com",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Version Cake",
+    "program_url": "https://hackerone.com/versioncake",
+    "repo_url": "https://github.com/bwillis/versioncake",
+    "repo_host": "github.com",
+    "org": "bwillis",
+    "repo_name": "versioncake"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Revive Adserver",
+    "program_url": "https://hackerone.com/revive_adserver",
+    "repo_url": "https://github.com/revive-adserver/revive-adserver",
+    "repo_host": "github.com",
+    "org": "revive-adserver",
+    "repo_name": "revive-adserver"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Shopify",
+    "program_url": "https://hackerone.com/shopify",
+    "repo_url": "https://github.com/Shopify/*",
+    "repo_host": "github.com",
+    "org": "Shopify",
+    "repo_name": "*"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Mapbox",
+    "program_url": "https://hackerone.com/mapbox",
+    "repo_url": "https://github.com/mapbox",
+    "repo_host": "github.com",
+    "org": "mapbox",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Adobe",
+    "program_url": "https://hackerone.com/adobe",
+    "repo_url": "https://github.com/contentauth/c2pa-js",
+    "repo_host": "github.com",
+    "org": "contentauth",
+    "repo_name": "c2pa-js"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Adobe",
+    "program_url": "https://hackerone.com/adobe",
+    "repo_url": "https://github.com/contentauth/c2pa-rs",
+    "repo_host": "github.com",
+    "org": "contentauth",
+    "repo_name": "c2pa-rs"
+  },
+  {
+    "platform": "hackerone",
+    "program": "GitLab",
+    "program_url": "https://hackerone.com/gitlab",
+    "repo_url": "https://gitlab.com/gitlab-org/gitaly",
+    "repo_host": "gitlab.com",
+    "org": "gitlab-org",
+    "repo_name": "gitaly"
+  },
+  {
+    "platform": "hackerone",
+    "program": "GitLab",
+    "program_url": "https://hackerone.com/gitlab",
+    "repo_url": "https://gitlab.com/gitlab-org/gitlab",
+    "repo_host": "gitlab.com",
+    "org": "gitlab-org",
+    "repo_name": "gitlab"
+  },
+  {
+    "platform": "hackerone",
+    "program": "GitLab",
+    "program_url": "https://hackerone.com/gitlab",
+    "repo_url": "https://gitlab.com/gitlab-org/gitlab-pages",
+    "repo_host": "gitlab.com",
+    "org": "gitlab-org",
+    "repo_name": "gitlab-pages"
+  },
+  {
+    "platform": "hackerone",
+    "program": "GitLab",
+    "program_url": "https://hackerone.com/gitlab",
+    "repo_url": "https://gitlab.com/gitlab-org/gitlab-runner",
+    "repo_host": "gitlab.com",
+    "org": "gitlab-org",
+    "repo_name": "gitlab-runner"
+  },
+  {
+    "platform": "hackerone",
+    "program": "GitLab",
+    "program_url": "https://hackerone.com/gitlab",
+    "repo_url": "https://gitlab.com/gitlab-org/gitlab-shell",
+    "repo_host": "gitlab.com",
+    "org": "gitlab-org",
+    "repo_name": "gitlab-shell"
+  },
+  {
+    "platform": "hackerone",
+    "program": "GitLab",
+    "program_url": "https://hackerone.com/gitlab",
+    "repo_url": "https://gitlab.com/gitlab-org/gitlab-vscode-extension",
+    "repo_host": "gitlab.com",
+    "org": "gitlab-org",
+    "repo_name": "gitlab-vscode-extension"
+  },
+  {
+    "platform": "hackerone",
+    "program": "GitLab",
+    "program_url": "https://hackerone.com/gitlab",
+    "repo_url": "https://gitlab.com/gitlab-org/opstrace/opstrace",
+    "repo_host": "gitlab.com",
+    "org": "gitlab-org",
+    "repo_name": "opstrace/opstrace"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Cloudflare Public Bug Bounty",
+    "program_url": "https://hackerone.com/cloudflare",
+    "repo_url": "https://github.com/cloudflare",
+    "repo_host": "github.com",
+    "org": "cloudflare",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Cloudflare Public Bug Bounty",
+    "program_url": "https://hackerone.com/cloudflare",
+    "repo_url": "https://github.com/cloudflare/vinext",
+    "repo_host": "github.com",
+    "org": "cloudflare",
+    "repo_name": "vinext"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Cloudflare Public Bug Bounty",
+    "program_url": "https://hackerone.com/cloudflare",
+    "repo_url": "https://github.com/cloudflare/workerd",
+    "repo_host": "github.com",
+    "org": "cloudflare",
+    "repo_name": "workerd"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Coinbase",
+    "program_url": "https://hackerone.com/coinbase",
+    "repo_url": "https://github.com/coinbase/cb-mpc",
+    "repo_host": "github.com",
+    "org": "coinbase",
+    "repo_name": "cb-mpc"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Concrete CMS",
+    "program_url": "https://hackerone.com/concretecms",
+    "repo_url": "https://github.com/concrete5/concrete5",
+    "repo_host": "github.com",
+    "org": "concrete5",
+    "repo_name": "concrete5"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Slack",
+    "program_url": "https://hackerone.com/slack",
+    "repo_url": "https://github.com/slackhq/nebula",
+    "repo_host": "github.com",
+    "org": "slackhq",
+    "repo_name": "nebula"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Ruby on Rails",
+    "program_url": "https://hackerone.com/rails",
+    "repo_url": "https://github.com/rails/rails",
+    "repo_host": "github.com",
+    "org": "rails",
+    "repo_name": "rails"
+  },
+  {
+    "platform": "hackerone",
+    "program": "HackerOne",
+    "program_url": "https://hackerone.com/security",
+    "repo_url": "https://github.com/Hacker0x01/react-datepicker",
+    "repo_host": "github.com",
+    "org": "Hacker0x01",
+    "repo_name": "react-datepicker"
+  },
+  {
+    "platform": "intigriti",
+    "program": "CM.com",
+    "program_url": "https://www.intigriti.com/programs/cmcom/cmcom/detail",
+    "repo_url": "https://github.com/cmdotcom",
+    "repo_host": "github.com",
+    "org": "cmdotcom",
+    "repo_name": ""
+  },
+  {
+    "platform": "intigriti",
+    "program": "DigitalOcean",
+    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
+    "repo_url": "https://github.com/digitalocean/do-agent",
+    "repo_host": "github.com",
+    "org": "digitalocean",
+    "repo_name": "do-agent"
+  },
+  {
+    "platform": "intigriti",
+    "program": "DigitalOcean",
+    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
+    "repo_url": "https://github.com/digitalocean/droplet-agent",
+    "repo_host": "github.com",
+    "org": "digitalocean",
+    "repo_name": "droplet-agent"
+  },
+  {
+    "platform": "intigriti",
+    "program": "DigitalOcean",
+    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
+    "repo_url": "https://github.com/digitalocean/doctl",
+    "repo_host": "github.com",
+    "org": "digitalocean",
+    "repo_name": "doctl"
+  },
+  {
+    "platform": "intigriti",
+    "program": "DigitalOcean",
+    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
+    "repo_url": "https://github.com/digitalocean/action-doctl",
+    "repo_host": "github.com",
+    "org": "digitalocean",
+    "repo_name": "action-doctl"
+  },
+  {
+    "platform": "intigriti",
+    "program": "DigitalOcean",
+    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
+    "repo_url": "https://github.com/digitalocean/godo",
+    "repo_host": "github.com",
+    "org": "digitalocean",
+    "repo_name": "godo"
+  },
+  {
+    "platform": "intigriti",
+    "program": "DigitalOcean",
+    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
+    "repo_url": "https://github.com/digitalocean/pydo",
+    "repo_host": "github.com",
+    "org": "digitalocean",
+    "repo_name": "pydo"
+  },
+  {
+    "platform": "intigriti",
+    "program": "DigitalOcean",
+    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
+    "repo_url": "https://github.com/digitalocean/terraform-provider-digitalocean",
+    "repo_host": "github.com",
+    "org": "digitalocean",
+    "repo_name": "terraform-provider-digitalocean"
+  },
+  {
+    "platform": "intigriti",
+    "program": "DigitalOcean",
+    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
+    "repo_url": "https://github.com/digitalocean/go-nbd",
+    "repo_host": "github.com",
+    "org": "digitalocean",
+    "repo_name": "go-nbd"
+  },
+  {
+    "platform": "intigriti",
+    "program": "DigitalOcean",
+    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
+    "repo_url": "https://github.com/digitalocean/do-markdownit",
+    "repo_host": "github.com",
+    "org": "digitalocean",
+    "repo_name": "do-markdownit"
+  },
+  {
+    "platform": "intigriti",
+    "program": "Grafana Labs",
+    "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanaossbbp/detail",
+    "repo_url": "https://github.com/grafana/*",
+    "repo_host": "github.com",
+    "org": "grafana",
+    "repo_name": "*"
+  },
+  {
+    "platform": "intigriti",
+    "program": "RIPE NCC",
+    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+    "repo_url": "https://github.com/RIPE-NCC/rpki-commons",
+    "repo_host": "github.com",
+    "org": "RIPE-NCC",
+    "repo_name": "rpki-commons"
+  },
+  {
+    "platform": "intigriti",
+    "program": "RIPE NCC",
+    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+    "repo_url": "https://github.com/RIPE-NCC/rpki-core",
+    "repo_host": "github.com",
+    "org": "RIPE-NCC",
+    "repo_name": "rpki-core"
+  },
+  {
+    "platform": "intigriti",
+    "program": "RIPE NCC",
+    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+    "repo_url": "https://github.com/RIPE-NCC/whois",
+    "repo_host": "github.com",
+    "org": "RIPE-NCC",
+    "repo_name": "whois"
+  },
+  {
+    "platform": "intigriti",
+    "program": "RIPE NCC",
+    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+    "repo_url": "https://github.com/RIPE-NCC/rpki-monitoring",
+    "repo_host": "github.com",
+    "org": "RIPE-NCC",
+    "repo_name": "rpki-monitoring"
+  },
+  {
+    "platform": "intigriti",
+    "program": "RIPE NCC",
+    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+    "repo_url": "https://github.com/RIPE-NCC/rpki-publication-server",
+    "repo_host": "github.com",
+    "org": "RIPE-NCC",
+    "repo_name": "rpki-publication-server"
+  },
+  {
+    "platform": "intigriti",
+    "program": "RIPE NCC",
+    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+    "repo_url": "https://github.com/RIPE-NCC/rpki-ta-0",
+    "repo_host": "github.com",
+    "org": "RIPE-NCC",
+    "repo_name": "rpki-ta-0"
+  },
+  {
+    "platform": "intigriti",
+    "program": "RIPE NCC",
+    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+    "repo_url": "https://github.com/RIPE-NCC/rsyncit",
+    "repo_host": "github.com",
+    "org": "RIPE-NCC",
+    "repo_name": "rsyncit"
+  },
+  {
+    "platform": "intigriti",
+    "program": "Red Bull",
+    "program_url": "https://www.intigriti.com/programs/redbull/redbull/detail",
+    "repo_url": "https://github.com/RedBullSecurity/3eb88debcb01759eccf65ec2b799b340",
+    "repo_host": "github.com",
+    "org": "RedBullSecurity",
+    "repo_name": "3eb88debcb01759eccf65ec2b799b340"
+  },
+  {
+    "platform": "intigriti",
+    "program": "Uphold",
+    "program_url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
+    "repo_url": "https://github.com/uphold/*",
+    "repo_host": "github.com",
+    "org": "uphold",
+    "repo_name": "*"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "DINUM - Démarches Simplifiées - Public Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/demarches-simplifiees/ds_proxy)",
+    "repo_host": "github.com",
+    "org": "demarches-simplifiees",
+    "repo_name": "ds_proxy)"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "DINUM - Tchap - Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/tchapgouv",
+    "repo_host": "github.com",
+    "org": "tchapgouv",
+    "repo_name": ""
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ExpressVPN - Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/expressvpn/lightway",
+    "repo_host": "github.com",
+    "org": "expressvpn",
+    "repo_name": "lightway"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Infomaniak Bug Bounty program",
+    "program_url": null,
+    "repo_url": "https://github.com/Infomaniak/desktop-kDrive",
+    "repo_host": "github.com",
+    "org": "Infomaniak",
+    "repo_name": "desktop-kDrive"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/server",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "server"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/activity",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "activity"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/bruteforcesettings",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "bruteforcesettings"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/circles",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "circles"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/files_pdfviewer",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "files_pdfviewer"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/firstrunwizard",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "firstrunwizard"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/logreader",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "logreader"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/nextcloud_announcements",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "nextcloud_announcements"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/notifications",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "notifications"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/password_policy",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "password_policy"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/photos",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "photos"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/privacy",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "privacy"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/recommendations",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "recommendations"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/related_resources",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "related_resources"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/serverinfo",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "serverinfo"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/survey_client",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "survey_client"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/suspicious_login",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "suspicious_login"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/text",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "text"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/twofactor_totp",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "twofactor_totp"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/updater",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "updater"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/user_saml",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "user_saml"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/viewer",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "viewer"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/android",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "android"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/ios",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "ios"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Nextcloud Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/nextcloud/desktop",
+    "repo_host": "github.com",
+    "org": "nextcloud",
+    "repo_name": "desktop"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ntpd-rs Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/pendulum-project/ntpd-rs",
+    "repo_host": "github.com",
+    "org": "pendulum-project",
+    "repo_name": "ntpd-rs"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ntpd-rs Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/pendulum-project/timestamped-socket",
+    "repo_host": "github.com",
+    "org": "pendulum-project",
+    "repo_name": "timestamped-socket"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ntpd-rs Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/pendulum-project/clock-steering",
+    "repo_host": "github.com",
+    "org": "pendulum-project",
+    "repo_name": "clock-steering"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/customgroups",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "customgroups"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/guests",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "guests"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/richdocuments",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "richdocuments"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/notifications",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "notifications"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/client",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "client"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/core",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "core"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/gallery",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "gallery"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/ocis",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "ocis"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/web",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "web"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/web-extensions",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "web-extensions"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/user_ldap",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "user_ldap"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/oauth2",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "oauth2"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/openidconnect",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "openidconnect"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/activity",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "activity"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/impersonate",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "impersonate"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/updater",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "updater"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/core/tree/master/apps/files",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "core/tree/master/apps/files"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/android",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "android"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "ownCloud – Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/owncloud/ios-app",
+    "repo_host": "github.com",
+    "org": "owncloud",
+    "repo_name": "ios-app"
+  }
+]
