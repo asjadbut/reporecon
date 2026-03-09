@@ -1,25 +1,31 @@
 # RepoRecon
 
-RepoRecon helps bug bounty hunters discover open-source repositories that are in scope across multiple bug bounty platforms.
+RepoRecon helps bug bounty hunters find open-source repositories that are in scope for bug bounty programs.
 
-Platforms included:
+It pulls data from several platforms:
 - HackerOne
 - Bugcrowd
 - Intigriti
 - YesWeHack
 
-The project automatically extracts repositories from the bounty-targets-data dataset and publishes a searchable index via GitHub Pages.
+The data is refreshed automatically from the bounty-targets-data project and turned into a simple website you can browse.
 
-## Features
+## How it works
 
-- Aggregates open-source repos from bug bounty scopes
-- Automatic updates via GitHub Actions
-- Searchable dataset
-- Static website hosted on GitHub Pages
+- A GitHub Action runs on a schedule.
+- It clones the bounty-targets-data repo.
+- `scripts/extract_repos.py` parses the JSON files and writes `data/repos.json`.
+- The static site in `index.html` reads `data/repos.json` and shows a table you can filter.
 
-## Dataset Source
+## Use it locally
 
-The project uses:
+1. Clone this repo.
+2. Run `python scripts/extract_repos.py` to build `data/repos.json`.
+3. Open `index.html` in your browser (or serve the folder with any static file server).
+
+## Dataset source
+
+The data comes from:
 
 https://github.com/arkadiyt/bounty-targets-data
 
