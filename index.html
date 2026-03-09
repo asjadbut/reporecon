@@ -1,33 +1,117 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-<title>RepoRecon</title>
-<link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <title>RepoRecon</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 20px; background: #f8f9fa; }
+    h1 { text-align: center; }
+    .filters { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 20px; }
+    select, input { padding: 5px; font-size: 14px; }
+    table { width: 100%; border-collapse: collapse; margin-top: 10px; background: #fff; }
+    th, td { border: 1px solid #ccc; padding: 8px; text-align: left; }
+    th { background: #007bff; color: #fff; }
+    tr:nth-child(even) { background: #f2f2f2; }
+    a { color: #007bff; text-decoration: none; }
+  </style>
 </head>
-
 <body>
 
-<h1>RepoRecon</h1>
-<p>Discover open-source repositories in bug bounty scope.</p>
+  <h1>RepoRecon</h1>
 
-<input id="search" placeholder="Search program or repo">
+  <div class="filters">
+    <select id="platformFilter">
+      <option value="">All Platforms</option>
+    </select>
 
-<table id="repoTable">
+    <select id="hostFilter">
+      <option value="">All Hosts</option>
+    </select>
 
-<thead>
-<tr>
-<th>Platform</th>
-<th>Program</th>
-<th>Repository</th>
-</tr>
-</thead>
+    <input type="text" id="orgFilter" placeholder="Filter by Org">
+    <input type="text" id="repoFilter" placeholder="Filter by Repo Name">
+  </div>
 
-<tbody></tbody>
+  <table>
+    <thead>
+      <tr>
+        <th>Platform</th>
+        <th>Program</th>
+        <th>Repo Host</th>
+        <th>Organization</th>
+        <th>Repository</th>
+      </tr>
+    </thead>
+    <tbody id="repoTable"></tbody>
+  </table>
 
-</table>
+  <script>
+    let repos = [];
 
-<script src="script.js"></script>
+    // Load repos.json (must be in same folder or use relative path)
+    fetch('data/repos.json')
+      .then(response => response.json())
+      .then(data => {
+        repos = data;
+        populateFilters();
+        renderTable(repos);
+      });
 
+    const platformFilter = document.getElementById('platformFilter');
+    const hostFilter = document.getElementById('hostFilter');
+    const orgFilter = document.getElementById('orgFilter');
+    const repoFilter = document.getElementById('repoFilter');
+    const repoTable = document.getElementById('repoTable');
+
+    function populateFilters() {
+      const platforms = [...new Set(repos.map(r => r.platform))].sort();
+      const hosts = [...new Set(repos.map(r => r.repo_host))].sort();
+
+      platforms.forEach(p => platformFilter.add(new Option(p, p)));
+      hosts.forEach(h => hostFilter.add(new Option(h, h)));
+    }
+
+    function renderTable(data) {
+      repoTable.innerHTML = '';
+      if (data.length === 0) {
+        repoTable.innerHTML = '<tr><td colspan="5">No repositories found.</td></tr>';
+        return;
+      }
+
+      data.forEach(r => {
+        const tr = document.createElement('tr');
+        tr.innerHTML = `
+          <td>${r.platform}</td>
+          <td><a href="${r.program_url}" target="_blank">${r.program}</a></td>
+          <td>${r.repo_host}</td>
+          <td>${r.org}</td>
+          <td><a href="${r.repo_url}" target="_blank">${r.repo_name || r.org}</a></td>
+        `;
+        repoTable.appendChild(tr);
+      });
+    }
+
+    function filterRepos() {
+      const platform = platformFilter.value.toLowerCase();
+      const host = hostFilter.value.toLowerCase();
+      const org = orgFilter.value.toLowerCase();
+      const repo = repoFilter.value.toLowerCase();
+
+      const filtered = repos.filter(r => 
+        (!platform || r.platform.toLowerCase() === platform) &&
+        (!host || r.repo_host.toLowerCase() === host) &&
+        (!org || r.org.toLowerCase().includes(org)) &&
+        (!repo || r.repo_name.toLowerCase().includes(repo))
+      );
+
+      renderTable(filtered);
+    }
+
+    platformFilter.addEventListener('change', filterRepos);
+    hostFilter.addEventListener('change', filterRepos);
+    orgFilter.addEventListener('input', filterRepos);
+    repoFilter.addEventListener('input', filterRepos);
+
+  </script>
 </body>
 </html>

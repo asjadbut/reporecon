@@ -2,7 +2,7 @@ name: Update RepoRecon Dataset
 
 on:
   schedule:
-    - cron: "0 3 * * *"
+    - cron: "0 3 * * *"   # runs daily at 03:00 UTC
   workflow_dispatch:
 
 permissions:
@@ -13,26 +13,30 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️ Checkout your RepoRecon repo
       - name: Checkout RepoRecon
         uses: actions/checkout@v4
 
+      # 2️ Clone bounty-targets-data
       - name: Clone bounty-targets-data
-        run: |
-          git clone https://github.com/arkadiyt/bounty-targets-data.git
+        run: git clone https://github.com/arkadiyt/bounty-targets-data.git
 
+      # 3 Setup Python
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.x"
-
+      
+      # 4 Copy dataset files
       - name: Copy dataset files
         run: |
           cp bounty-targets-data/data/*.json .
+          
+      # 5 Run the extraction script
+      - name: Run RepoRecon extraction
+        run: python scripts/extract_repos.py
 
-      - name: Run extraction script
-        run: |
-          python scripts/extract_repos.py
-
+      # 6 Commit and push updated repos.json
       - name: Commit updated dataset
         run: |
           git config --global user.name "github-actions"
