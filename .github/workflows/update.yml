@@ -5,6 +5,9 @@ on:
     - cron: "0 3 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   update:
     runs-on: ubuntu-latest
@@ -16,10 +19,6 @@ jobs:
       - name: Clone bounty-targets-data
         run: |
           git clone https://github.com/arkadiyt/bounty-targets-data.git
-
-      - name: Show dataset structure (debug)
-        run: |
-          ls -R bounty-targets-data
 
       - name: Setup Python
         uses: actions/setup-python@v5
