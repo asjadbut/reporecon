@@ -1945,51 +1945,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "Python Cryptographic Authority",
-    "program_url": "https://hackerone.com/pyca",
-    "repo_url": "https://github.com/pyca/bcrypt",
-    "repo_host": "github.com",
-    "org": "pyca",
-    "repo_name": "bcrypt"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Python Cryptographic Authority",
-    "program_url": "https://hackerone.com/pyca",
-    "repo_url": "https://github.com/pyca/cryptography",
-    "repo_host": "github.com",
-    "org": "pyca",
-    "repo_name": "cryptography"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Python Cryptographic Authority",
-    "program_url": "https://hackerone.com/pyca",
-    "repo_url": "https://github.com/pyca/infra",
-    "repo_host": "github.com",
-    "org": "pyca",
-    "repo_name": "infra"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Python Cryptographic Authority",
-    "program_url": "https://hackerone.com/pyca",
-    "repo_url": "https://github.com/pyca/pynacl",
-    "repo_host": "github.com",
-    "org": "pyca",
-    "repo_name": "pynacl"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Python Cryptographic Authority",
-    "program_url": "https://hackerone.com/pyca",
-    "repo_url": "https://github.com/pyca/pyopenssl",
-    "repo_host": "github.com",
-    "org": "pyca",
-    "repo_name": "pyopenssl"
-  },
-  {
-    "platform": "hackerone",
     "program": "Matomo",
     "program_url": "https://hackerone.com/matomo",
     "repo_url": "https://github.com/innocraft",
