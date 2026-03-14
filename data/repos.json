@@ -3070,33 +3070,6 @@
   },
   {
     "platform": "yeswehack",
-    "program": "ntpd-rs Bug Bounty Program",
-    "program_url": null,
-    "repo_url": "https://github.com/pendulum-project/ntpd-rs",
-    "repo_host": "github.com",
-    "org": "pendulum-project",
-    "repo_name": "ntpd-rs"
-  },
-  {
-    "platform": "yeswehack",
-    "program": "ntpd-rs Bug Bounty Program",
-    "program_url": null,
-    "repo_url": "https://github.com/pendulum-project/timestamped-socket",
-    "repo_host": "github.com",
-    "org": "pendulum-project",
-    "repo_name": "timestamped-socket"
-  },
-  {
-    "platform": "yeswehack",
-    "program": "ntpd-rs Bug Bounty Program",
-    "program_url": null,
-    "repo_url": "https://github.com/pendulum-project/clock-steering",
-    "repo_host": "github.com",
-    "org": "pendulum-project",
-    "repo_name": "clock-steering"
-  },
-  {
-    "platform": "yeswehack",
     "program": "ownCloud – Bug Bounty Program",
     "program_url": null,
     "repo_url": "https://github.com/owncloud/customgroups",
