@@ -633,6 +633,15 @@
     "platform": "hackerone",
     "program": "AWS VDP",
     "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/awslabs/*",
+    "repo_host": "github.com",
+    "org": "awslabs",
+    "repo_name": "*"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
     "repo_url": "https://github.com/kubernetes-sigs/aws-ebs-csi-driver",
     "repo_host": "github.com",
     "org": "kubernetes-sigs",
@@ -2440,6 +2449,24 @@
   },
   {
     "platform": "hackerone",
+    "program": "Basecamp",
+    "program_url": "https://hackerone.com/basecamp",
+    "repo_url": "https://github.com/basecamp/once-campfire",
+    "repo_host": "github.com",
+    "org": "basecamp",
+    "repo_name": "once-campfire"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Basecamp",
+    "program_url": "https://hackerone.com/basecamp",
+    "repo_url": "https://github.com/basecamp/writebook",
+    "repo_host": "github.com",
+    "org": "basecamp",
+    "repo_name": "writebook"
+  },
+  {
+    "platform": "hackerone",
     "program": "Shopify",
     "program_url": "https://hackerone.com/shopify",
     "repo_url": "https://github.com/Shopify/*",
@@ -2617,87 +2644,6 @@
     "repo_host": "github.com",
     "org": "cmdotcom",
     "repo_name": ""
-  },
-  {
-    "platform": "intigriti",
-    "program": "DigitalOcean",
-    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
-    "repo_url": "https://github.com/digitalocean/do-agent",
-    "repo_host": "github.com",
-    "org": "digitalocean",
-    "repo_name": "do-agent"
-  },
-  {
-    "platform": "intigriti",
-    "program": "DigitalOcean",
-    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
-    "repo_url": "https://github.com/digitalocean/droplet-agent",
-    "repo_host": "github.com",
-    "org": "digitalocean",
-    "repo_name": "droplet-agent"
-  },
-  {
-    "platform": "intigriti",
-    "program": "DigitalOcean",
-    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
-    "repo_url": "https://github.com/digitalocean/doctl",
-    "repo_host": "github.com",
-    "org": "digitalocean",
-    "repo_name": "doctl"
-  },
-  {
-    "platform": "intigriti",
-    "program": "DigitalOcean",
-    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
-    "repo_url": "https://github.com/digitalocean/action-doctl",
-    "repo_host": "github.com",
-    "org": "digitalocean",
-    "repo_name": "action-doctl"
-  },
-  {
-    "platform": "intigriti",
-    "program": "DigitalOcean",
-    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
-    "repo_url": "https://github.com/digitalocean/godo",
-    "repo_host": "github.com",
-    "org": "digitalocean",
-    "repo_name": "godo"
-  },
-  {
-    "platform": "intigriti",
-    "program": "DigitalOcean",
-    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
-    "repo_url": "https://github.com/digitalocean/pydo",
-    "repo_host": "github.com",
-    "org": "digitalocean",
-    "repo_name": "pydo"
-  },
-  {
-    "platform": "intigriti",
-    "program": "DigitalOcean",
-    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
-    "repo_url": "https://github.com/digitalocean/terraform-provider-digitalocean",
-    "repo_host": "github.com",
-    "org": "digitalocean",
-    "repo_name": "terraform-provider-digitalocean"
-  },
-  {
-    "platform": "intigriti",
-    "program": "DigitalOcean",
-    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
-    "repo_url": "https://github.com/digitalocean/go-nbd",
-    "repo_host": "github.com",
-    "org": "digitalocean",
-    "repo_name": "go-nbd"
-  },
-  {
-    "platform": "intigriti",
-    "program": "DigitalOcean",
-    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
-    "repo_url": "https://github.com/digitalocean/do-markdownit",
-    "repo_host": "github.com",
-    "org": "digitalocean",
-    "repo_name": "do-markdownit"
   },
   {
     "platform": "intigriti",
