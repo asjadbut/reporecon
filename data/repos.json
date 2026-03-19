@@ -2055,15 +2055,6 @@
     "platform": "hackerone",
     "program": "arkadiyt-projects",
     "program_url": "https://hackerone.com/arkadiyt-projects",
-    "repo_url": "https://github.com/arkadiyt/multiple-aws-sessions",
-    "repo_host": "github.com",
-    "org": "arkadiyt",
-    "repo_name": "multiple-aws-sessions"
-  },
-  {
-    "platform": "hackerone",
-    "program": "arkadiyt-projects",
-    "program_url": "https://hackerone.com/arkadiyt-projects",
     "repo_url": "https://github.com/arkadiyt/protodump",
     "repo_host": "github.com",
     "org": "arkadiyt",
@@ -2203,33 +2194,6 @@
     "repo_host": "github.com",
     "org": "backstage",
     "repo_name": "backstage"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Rocket.Chat",
-    "program_url": "https://hackerone.com/rocket_chat",
-    "repo_url": "https://github.com/RocketChat/Rocket.Chat",
-    "repo_host": "github.com",
-    "org": "RocketChat",
-    "repo_name": "Rocket.Chat"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Rocket.Chat",
-    "program_url": "https://hackerone.com/rocket_chat",
-    "repo_url": "https://github.com/RocketChat/Rocket.Chat.Electron",
-    "repo_host": "github.com",
-    "org": "RocketChat",
-    "repo_name": "Rocket.Chat.Electron"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Rocket.Chat",
-    "program_url": "https://hackerone.com/rocket_chat",
-    "repo_url": "https://github.com/RocketChat/Rocket.Chat.ReactNative",
-    "repo_host": "github.com",
-    "org": "RocketChat",
-    "repo_name": "Rocket.Chat.ReactNative"
   },
   {
     "platform": "hackerone",
