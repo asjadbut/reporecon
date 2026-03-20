@@ -1,6 +1,24 @@
 [
   {
     "platform": "bugcrowd",
+    "program": "Aiven Managed Bug Bounty",
+    "program_url": "https://bugcrowd.com/engagements/aiven-mbb-og",
+    "repo_url": "https://github.com/Aiven-Open",
+    "repo_host": "github.com",
+    "org": "Aiven-Open",
+    "repo_name": ""
+  },
+  {
+    "platform": "bugcrowd",
+    "program": "Aiven Managed Bug Bounty",
+    "program_url": "https://bugcrowd.com/engagements/aiven-mbb-og",
+    "repo_url": "https://github.com/Aiven",
+    "repo_host": "github.com",
+    "org": "Aiven",
+    "repo_name": ""
+  },
+  {
+    "platform": "bugcrowd",
     "program": "Auth0 by Okta",
     "program_url": "https://bugcrowd.com/engagements/auth0-okta",
     "repo_url": "https://github.com/auth0/auth0.js",
