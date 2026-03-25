@@ -91,15 +91,6 @@
   },
   {
     "platform": "bugcrowd",
-    "program": "Auth0 by Okta",
-    "program_url": "https://bugcrowd.com/engagements/auth0-okta",
-    "repo_url": "https://github.com/auth0/passport-wsfed-saml2",
-    "repo_host": "github.com",
-    "org": "auth0",
-    "repo_name": "passport-wsfed-saml2"
-  },
-  {
-    "platform": "bugcrowd",
     "program": "Binance",
     "program_url": "https://bugcrowd.com/engagements/binance",
     "repo_url": "https://github.com/trustwallet/wallet-core",
