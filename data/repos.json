@@ -2170,15 +2170,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "passhash",
-    "program_url": "https://hackerone.com/passhash",
-    "repo_url": "https://github.com/dhui/passhash",
-    "repo_host": "github.com",
-    "org": "dhui",
-    "repo_name": "passhash"
-  },
-  {
-    "platform": "hackerone",
     "program": "Valve",
     "program_url": "https://hackerone.com/valve",
     "repo_url": "https://github.com/valvesoftware",
@@ -2572,15 +2563,6 @@
     "repo_host": "github.com",
     "org": "coinbase",
     "repo_name": "cb-mpc"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Concrete CMS",
-    "program_url": "https://hackerone.com/concretecms",
-    "repo_url": "https://github.com/concrete5/concrete5",
-    "repo_host": "github.com",
-    "org": "concrete5",
-    "repo_name": "concrete5"
   },
   {
     "platform": "hackerone",
