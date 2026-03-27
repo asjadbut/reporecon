@@ -2566,6 +2566,15 @@
   },
   {
     "platform": "hackerone",
+    "program": "Coinbase",
+    "program_url": "https://hackerone.com/coinbase",
+    "repo_url": "https://github.com/coinbase/cb-mpc-go",
+    "repo_host": "github.com",
+    "org": "coinbase",
+    "repo_name": "cb-mpc-go"
+  },
+  {
+    "platform": "hackerone",
     "program": "Slack",
     "program_url": "https://hackerone.com/slack",
     "repo_url": "https://github.com/slackhq/nebula",
