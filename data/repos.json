@@ -2170,6 +2170,15 @@
   },
   {
     "platform": "hackerone",
+    "program": "passhash",
+    "program_url": "https://hackerone.com/passhash",
+    "repo_url": "https://github.com/dhui/passhash",
+    "repo_host": "github.com",
+    "org": "dhui",
+    "repo_name": "passhash"
+  },
+  {
+    "platform": "hackerone",
     "program": "Valve",
     "program_url": "https://hackerone.com/valve",
     "repo_url": "https://github.com/valvesoftware",
@@ -2575,6 +2584,15 @@
   },
   {
     "platform": "hackerone",
+    "program": "Concrete CMS",
+    "program_url": "https://hackerone.com/concretecms",
+    "repo_url": "https://github.com/concrete5/concrete5",
+    "repo_host": "github.com",
+    "org": "concrete5",
+    "repo_name": "concrete5"
+  },
+  {
+    "platform": "hackerone",
     "program": "Slack",
     "program_url": "https://hackerone.com/slack",
     "repo_url": "https://github.com/slackhq/nebula",
@@ -2725,15 +2743,6 @@
     "repo_host": "github.com",
     "org": "expressvpn",
     "repo_name": "lightway"
-  },
-  {
-    "platform": "yeswehack",
-    "program": "Infomaniak Bug Bounty program",
-    "program_url": null,
-    "repo_url": "https://github.com/Infomaniak/desktop-kDrive",
-    "repo_host": "github.com",
-    "org": "Infomaniak",
-    "repo_name": "desktop-kDrive"
   },
   {
     "platform": "yeswehack",
