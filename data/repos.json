@@ -1063,168 +1063,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "Internet Bug Bounty",
-    "program_url": "https://hackerone.com/ibb",
-    "repo_url": "https://github.com/Electron",
-    "repo_host": "github.com",
-    "org": "Electron",
-    "repo_name": ""
-  },
-  {
-    "platform": "hackerone",
-    "program": "Internet Bug Bounty",
-    "program_url": "https://hackerone.com/ibb",
-    "repo_url": "https://github.com/Nginx",
-    "repo_host": "github.com",
-    "org": "Nginx",
-    "repo_name": ""
-  },
-  {
-    "platform": "hackerone",
-    "program": "Internet Bug Bounty",
-    "program_url": "https://hackerone.com/ibb",
-    "repo_url": "https://github.com/apache/airflow",
-    "repo_host": "github.com",
-    "org": "apache",
-    "repo_name": "airflow"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Internet Bug Bounty",
-    "program_url": "https://hackerone.com/ibb",
-    "repo_url": "https://github.com/apache/httpd",
-    "repo_host": "github.com",
-    "org": "apache",
-    "repo_name": "httpd"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Internet Bug Bounty",
-    "program_url": "https://hackerone.com/ibb",
-    "repo_url": "https://github.com/apache/tomcat",
-    "repo_host": "github.com",
-    "org": "apache",
-    "repo_name": "tomcat"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Internet Bug Bounty",
-    "program_url": "https://hackerone.com/ibb",
-    "repo_url": "https://github.com/argoproj/argoproj",
-    "repo_host": "github.com",
-    "org": "argoproj",
-    "repo_name": "argoproj"
-  },
-  {
-    "platform": "hackerone",
-    "program": "curl",
-    "program_url": "https://hackerone.com/curl",
-    "repo_url": "https://github.com/curl/curl",
-    "repo_host": "github.com",
-    "org": "curl",
-    "repo_name": "curl"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Internet Bug Bounty",
-    "program_url": "https://hackerone.com/ibb",
-    "repo_url": "https://github.com/django",
-    "repo_host": "github.com",
-    "org": "django",
-    "repo_name": ""
-  },
-  {
-    "platform": "hackerone",
-    "program": "Internet Bug Bounty",
-    "program_url": "https://hackerone.com/ibb",
-    "repo_url": "https://github.com/libuv/libuv",
-    "repo_host": "github.com",
-    "org": "libuv",
-    "repo_name": "libuv"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Node.js",
-    "program_url": "https://hackerone.com/nodejs",
-    "repo_url": "https://github.com/nodejs/node",
-    "repo_host": "github.com",
-    "org": "nodejs",
-    "repo_name": "node"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Internet Bug Bounty",
-    "program_url": "https://hackerone.com/ibb",
-    "repo_url": "https://github.com/openssl/openssl",
-    "repo_host": "github.com",
-    "org": "openssl",
-    "repo_name": "openssl"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Internet Bug Bounty",
-    "program_url": "https://hackerone.com/ibb",
-    "repo_url": "https://github.com/rack/rack",
-    "repo_host": "github.com",
-    "org": "rack",
-    "repo_name": "rack"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Internet Bug Bounty",
-    "program_url": "https://hackerone.com/ibb",
-    "repo_url": "https://github.com/rails",
-    "repo_host": "github.com",
-    "org": "rails",
-    "repo_name": ""
-  },
-  {
-    "platform": "hackerone",
-    "program": "Internet Bug Bounty",
-    "program_url": "https://hackerone.com/ibb",
-    "repo_url": "https://github.com/ruby",
-    "repo_host": "github.com",
-    "org": "ruby",
-    "repo_name": ""
-  },
-  {
-    "platform": "hackerone",
-    "program": "RubyGems",
-    "program_url": "https://hackerone.com/rubygems",
-    "repo_url": "https://github.com/rubygems/rubygems",
-    "repo_host": "github.com",
-    "org": "rubygems",
-    "repo_name": "rubygems"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Internet Bug Bounty",
-    "program_url": "https://hackerone.com/ibb",
-    "repo_url": "https://github.com/rust-lang/rust",
-    "repo_host": "github.com",
-    "org": "rust-lang",
-    "repo_name": "rust"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Internet Bug Bounty",
-    "program_url": "https://hackerone.com/ibb",
-    "repo_url": "https://github.com/spiffe/spiffe",
-    "repo_host": "github.com",
-    "org": "spiffe",
-    "repo_name": "spiffe"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Internet Bug Bounty",
-    "program_url": "https://hackerone.com/ibb",
-    "repo_url": "https://github.com/spiffe/spire",
-    "repo_host": "github.com",
-    "org": "spiffe",
-    "repo_name": "spire"
-  },
-  {
-    "platform": "hackerone",
     "program": "WHO COVID-19 Mobile App",
     "program_url": "https://hackerone.com/who-covid-19-mobile-app",
     "repo_url": "https://github.com/WorldHealthOrganization/app",
@@ -1927,6 +1765,15 @@
   },
   {
     "platform": "hackerone",
+    "program": "curl",
+    "program_url": "https://hackerone.com/curl",
+    "repo_url": "https://github.com/curl/curl",
+    "repo_host": "github.com",
+    "org": "curl",
+    "repo_name": "curl"
+  },
+  {
+    "platform": "hackerone",
     "program": "Dynatrace",
     "program_url": "https://hackerone.com/dynatrace",
     "repo_url": "https://github.com/Dynatrace",
@@ -2170,6 +2017,15 @@
   },
   {
     "platform": "hackerone",
+    "program": "Node.js",
+    "program_url": "https://hackerone.com/nodejs",
+    "repo_url": "https://github.com/nodejs/node",
+    "repo_host": "github.com",
+    "org": "nodejs",
+    "repo_name": "node"
+  },
+  {
+    "platform": "hackerone",
     "program": "passhash",
     "program_url": "https://hackerone.com/passhash",
     "repo_url": "https://github.com/dhui/passhash",
@@ -2329,6 +2185,15 @@
     "repo_host": "github.com",
     "org": "brave",
     "repo_name": "*,"
+  },
+  {
+    "platform": "hackerone",
+    "program": "RubyGems",
+    "program_url": "https://hackerone.com/rubygems",
+    "repo_url": "https://github.com/rubygems/rubygems",
+    "repo_host": "github.com",
+    "org": "rubygems",
+    "repo_name": "rubygems"
   },
   {
     "platform": "hackerone",
@@ -2707,15 +2572,6 @@
     "repo_host": "github.com",
     "org": "RedBullSecurity",
     "repo_name": "3eb88debcb01759eccf65ec2b799b340"
-  },
-  {
-    "platform": "intigriti",
-    "program": "Uphold",
-    "program_url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
-    "repo_url": "https://github.com/uphold/*",
-    "repo_host": "github.com",
-    "org": "uphold",
-    "repo_name": "*"
   },
   {
     "platform": "yeswehack",
