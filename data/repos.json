@@ -1090,6 +1090,15 @@
   },
   {
     "platform": "hackerone",
+    "program": "8x8",
+    "program_url": "https://hackerone.com/8x8-bounty",
+    "repo_url": "https://github.com/jitsi",
+    "repo_host": "github.com",
+    "org": "jitsi",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
     "program": "Kubernetes",
     "program_url": "https://hackerone.com/kubernetes",
     "repo_url": "https://github.com/kubernetes-csi",
@@ -2563,6 +2572,15 @@
     "repo_host": "github.com",
     "org": "RedBullSecurity",
     "repo_name": "3eb88debcb01759eccf65ec2b799b340"
+  },
+  {
+    "platform": "intigriti",
+    "program": "Uphold",
+    "program_url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
+    "repo_url": "https://github.com/uphold/*",
+    "repo_host": "github.com",
+    "org": "uphold",
+    "repo_name": "*"
   },
   {
     "platform": "yeswehack",
