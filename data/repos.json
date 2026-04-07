@@ -2026,15 +2026,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "passhash",
-    "program_url": "https://hackerone.com/passhash",
-    "repo_url": "https://github.com/dhui/passhash",
-    "repo_host": "github.com",
-    "org": "dhui",
-    "repo_name": "passhash"
-  },
-  {
-    "platform": "hackerone",
     "program": "Valve",
     "program_url": "https://hackerone.com/valve",
     "repo_url": "https://github.com/valvesoftware",
@@ -2491,6 +2482,33 @@
     "repo_host": "github.com",
     "org": "cmdotcom",
     "repo_name": ""
+  },
+  {
+    "platform": "intigriti",
+    "program": "DigitalOcean",
+    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
+    "repo_url": "https://github.com/digitalocean/do-agent",
+    "repo_host": "github.com",
+    "org": "digitalocean",
+    "repo_name": "do-agent"
+  },
+  {
+    "platform": "intigriti",
+    "program": "DigitalOcean",
+    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
+    "repo_url": "https://github.com/digitalocean/droplet-agent",
+    "repo_host": "github.com",
+    "org": "digitalocean",
+    "repo_name": "droplet-agent"
+  },
+  {
+    "platform": "intigriti",
+    "program": "DigitalOcean",
+    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
+    "repo_url": "https://github.com/digitalocean/doctl",
+    "repo_host": "github.com",
+    "org": "digitalocean",
+    "repo_name": "doctl"
   },
   {
     "platform": "intigriti",
