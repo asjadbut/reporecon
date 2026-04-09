@@ -750,6 +750,15 @@
     "platform": "hackerone",
     "program": "Circle BBP",
     "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/arc-node",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "arc-node"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/buidl-wallet-contracts",
     "repo_host": "github.com",
     "org": "circlefin",
