@@ -2601,6 +2601,15 @@
     "repo_name": "3eb88debcb01759eccf65ec2b799b340"
   },
   {
+    "platform": "intigriti",
+    "program": "Uphold",
+    "program_url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
+    "repo_url": "https://github.com/uphold/*",
+    "repo_host": "github.com",
+    "org": "uphold",
+    "repo_name": "*"
+  },
+  {
     "platform": "yeswehack",
     "program": "DINUM - Démarches Simplifiées - Public Bug Bounty Program",
     "program_url": null,
