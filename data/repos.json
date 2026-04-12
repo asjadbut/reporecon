@@ -1873,69 +1873,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "arkadiyt-projects",
-    "program_url": "https://hackerone.com/arkadiyt-projects",
-    "repo_url": "https://github.com/arkadiyt/aws_public_ips",
-    "repo_host": "github.com",
-    "org": "arkadiyt",
-    "repo_name": "aws_public_ips"
-  },
-  {
-    "platform": "hackerone",
-    "program": "arkadiyt-projects",
-    "program_url": "https://hackerone.com/arkadiyt-projects",
-    "repo_url": "https://github.com/arkadiyt/bounty-targets",
-    "repo_host": "github.com",
-    "org": "arkadiyt",
-    "repo_name": "bounty-targets"
-  },
-  {
-    "platform": "hackerone",
-    "program": "arkadiyt-projects",
-    "program_url": "https://hackerone.com/arkadiyt-projects",
-    "repo_url": "https://github.com/arkadiyt/ddexport",
-    "repo_host": "github.com",
-    "org": "arkadiyt",
-    "repo_name": "ddexport"
-  },
-  {
-    "platform": "hackerone",
-    "program": "arkadiyt-projects",
-    "program_url": "https://hackerone.com/arkadiyt-projects",
-    "repo_url": "https://github.com/arkadiyt/free-ft",
-    "repo_host": "github.com",
-    "org": "arkadiyt",
-    "repo_name": "free-ft"
-  },
-  {
-    "platform": "hackerone",
-    "program": "arkadiyt-projects",
-    "program_url": "https://hackerone.com/arkadiyt-projects",
-    "repo_url": "https://github.com/arkadiyt/protodump",
-    "repo_host": "github.com",
-    "org": "arkadiyt",
-    "repo_name": "protodump"
-  },
-  {
-    "platform": "hackerone",
-    "program": "arkadiyt-projects",
-    "program_url": "https://hackerone.com/arkadiyt-projects",
-    "repo_url": "https://github.com/arkadiyt/ssrf_filter",
-    "repo_host": "github.com",
-    "org": "arkadiyt",
-    "repo_name": "ssrf_filter"
-  },
-  {
-    "platform": "hackerone",
-    "program": "arkadiyt-projects",
-    "program_url": "https://hackerone.com/arkadiyt-projects",
-    "repo_url": "https://github.com/arkadiyt/zoom-redirector",
-    "repo_host": "github.com",
-    "org": "arkadiyt",
-    "repo_name": "zoom-redirector"
-  },
-  {
-    "platform": "hackerone",
     "program": "Cosmos",
     "program_url": "https://hackerone.com/cosmos",
     "repo_url": "https://github.com/cosmos/gaia",
