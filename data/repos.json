@@ -2064,15 +2064,6 @@
     "platform": "hackerone",
     "program": "Plaid",
     "program_url": "https://hackerone.com/plaid",
-    "repo_url": "https://github.com/plaid/plaid-link-examples",
-    "repo_host": "github.com",
-    "org": "plaid",
-    "repo_name": "plaid-link-examples"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Plaid",
-    "program_url": "https://hackerone.com/plaid",
     "repo_url": "https://github.com/plaid/plaid-link-ios",
     "repo_host": "github.com",
     "org": "plaid",
