@@ -885,6 +885,15 @@
     "platform": "hackerone",
     "program": "Circle BBP",
     "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/stablecoin-xlm",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "stablecoin-xlm"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/starknet-cctp",
     "repo_host": "github.com",
     "org": "circlefin",
