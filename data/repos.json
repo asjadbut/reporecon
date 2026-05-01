@@ -2476,6 +2476,15 @@
   },
   {
     "platform": "intigriti",
+    "program": "Aikido Security: Bug Bounty Program",
+    "program_url": "https://www.intigriti.com/programs/aikido/aikido/detail",
+    "repo_url": "https://github.com/AikidoSec/safe-chain",
+    "repo_host": "github.com",
+    "org": "AikidoSec",
+    "repo_name": "safe-chain"
+  },
+  {
+    "platform": "intigriti",
     "program": "CM.com",
     "program_url": "https://www.intigriti.com/programs/cmcom/cmcom/detail",
     "repo_url": "https://github.com/cmdotcom",
