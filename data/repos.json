@@ -759,6 +759,15 @@
     "platform": "hackerone",
     "program": "Circle BBP",
     "program_url": "https://hackerone.com/circle-bbp",
+    "repo_url": "https://github.com/circlefin/arc-remote-signer",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "arc-remote-signer"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Circle BBP",
+    "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/buidl-wallet-contracts",
     "repo_host": "github.com",
     "org": "circlefin",
@@ -1015,6 +1024,15 @@
     "repo_host": "github.com",
     "org": "lightsparkdev",
     "repo_name": "python-sdk"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Anthropic",
+    "program_url": "https://hackerone.com/anthropic",
+    "repo_url": "https://github.com/anthropics",
+    "repo_host": "github.com",
+    "org": "anthropics",
+    "repo_name": ""
   },
   {
     "platform": "hackerone",
