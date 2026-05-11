@@ -226,15 +226,6 @@
   },
   {
     "platform": "bugcrowd",
-    "program": "Immutable Bug Bounty",
-    "program_url": "https://bugcrowd.com/engagements/immutable",
-    "repo_url": "https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport",
-    "repo_host": "github.com",
-    "org": "immutable",
-    "repo_name": "ts-immutable-sdk/tree/main/packages/passport/"
-  },
-  {
-    "platform": "bugcrowd",
     "program": "Just Eat Takeaway.com",
     "program_url": "https://bugcrowd.com/engagements/justeattakeaway",
     "repo_url": "https://github.com/justeattakeaway",
