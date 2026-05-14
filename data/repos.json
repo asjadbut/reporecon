@@ -91,15 +91,6 @@
   },
   {
     "platform": "bugcrowd",
-    "program": "Binance",
-    "program_url": "https://bugcrowd.com/engagements/binance",
-    "repo_url": "https://github.com/trustwallet/wallet-core",
-    "repo_host": "github.com",
-    "org": "trustwallet",
-    "repo_name": "wallet-core/"
-  },
-  {
-    "platform": "bugcrowd",
     "program": "Block Open Source",
     "program_url": "https://bugcrowd.com/engagements/blockopensource",
     "repo_url": "https://github.com/afterpay/sdk-ios",
@@ -358,15 +349,6 @@
     "repo_host": "github.com",
     "org": "OctopusDeploy",
     "repo_name": ""
-  },
-  {
-    "platform": "bugcrowd",
-    "program": "OpenAI",
-    "program_url": "https://bugcrowd.com/engagements/openai",
-    "repo_url": "https://github.com/openai/codex",
-    "repo_host": "github.com",
-    "org": "openai",
-    "repo_name": "codex/"
   },
   {
     "platform": "bugcrowd",
@@ -1123,15 +1105,6 @@
     "repo_host": "github.com",
     "org": "USStateDept",
     "repo_name": ""
-  },
-  {
-    "platform": "hackerone",
-    "program": "MetaMask",
-    "program_url": "https://hackerone.com/metamask",
-    "repo_url": "https://github.com/Web3Auth/web3auth-web",
-    "repo_host": "github.com",
-    "org": "Web3Auth",
-    "repo_name": "web3auth-web"
   },
   {
     "platform": "hackerone",
@@ -2518,6 +2491,69 @@
     "repo_host": "github.com",
     "org": "grafana",
     "repo_name": "*"
+  },
+  {
+    "platform": "intigriti",
+    "program": "RIPE NCC",
+    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+    "repo_url": "https://github.com/RIPE-NCC/rpki-commons",
+    "repo_host": "github.com",
+    "org": "RIPE-NCC",
+    "repo_name": "rpki-commons"
+  },
+  {
+    "platform": "intigriti",
+    "program": "RIPE NCC",
+    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+    "repo_url": "https://github.com/RIPE-NCC/rpki-core",
+    "repo_host": "github.com",
+    "org": "RIPE-NCC",
+    "repo_name": "rpki-core"
+  },
+  {
+    "platform": "intigriti",
+    "program": "RIPE NCC",
+    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+    "repo_url": "https://github.com/RIPE-NCC/whois",
+    "repo_host": "github.com",
+    "org": "RIPE-NCC",
+    "repo_name": "whois"
+  },
+  {
+    "platform": "intigriti",
+    "program": "RIPE NCC",
+    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+    "repo_url": "https://github.com/RIPE-NCC/rpki-monitoring",
+    "repo_host": "github.com",
+    "org": "RIPE-NCC",
+    "repo_name": "rpki-monitoring"
+  },
+  {
+    "platform": "intigriti",
+    "program": "RIPE NCC",
+    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+    "repo_url": "https://github.com/RIPE-NCC/rpki-publication-server",
+    "repo_host": "github.com",
+    "org": "RIPE-NCC",
+    "repo_name": "rpki-publication-server"
+  },
+  {
+    "platform": "intigriti",
+    "program": "RIPE NCC",
+    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+    "repo_url": "https://github.com/RIPE-NCC/rpki-ta-0",
+    "repo_host": "github.com",
+    "org": "RIPE-NCC",
+    "repo_name": "rpki-ta-0"
+  },
+  {
+    "platform": "intigriti",
+    "program": "RIPE NCC",
+    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+    "repo_url": "https://github.com/RIPE-NCC/rsyncit",
+    "repo_host": "github.com",
+    "org": "RIPE-NCC",
+    "repo_name": "rsyncit"
   },
   {
     "platform": "intigriti",
