@@ -91,6 +91,15 @@
   },
   {
     "platform": "bugcrowd",
+    "program": "Binance",
+    "program_url": "https://bugcrowd.com/engagements/binance",
+    "repo_url": "https://github.com/trustwallet/wallet-core",
+    "repo_host": "github.com",
+    "org": "trustwallet",
+    "repo_name": "wallet-core/"
+  },
+  {
+    "platform": "bugcrowd",
     "program": "Block Open Source",
     "program_url": "https://bugcrowd.com/engagements/blockopensource",
     "repo_url": "https://github.com/afterpay/sdk-ios",
@@ -2437,15 +2446,6 @@
     "repo_host": "github.com",
     "org": "Hacker0x01",
     "repo_name": "react-datepicker"
-  },
-  {
-    "platform": "intigriti",
-    "program": "Aikido Security: Bug Bounty Program",
-    "program_url": "https://www.intigriti.com/programs/aikido/aikido/detail",
-    "repo_url": "https://github.com/AikidoSec/safe-chain",
-    "repo_host": "github.com",
-    "org": "AikidoSec",
-    "repo_name": "safe-chain"
   },
   {
     "platform": "intigriti",
