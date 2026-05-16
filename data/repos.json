@@ -2485,15 +2485,6 @@
   },
   {
     "platform": "intigriti",
-    "program": "Grafana Labs",
-    "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanaossbbp/detail",
-    "repo_url": "https://github.com/grafana/*",
-    "repo_host": "github.com",
-    "org": "grafana",
-    "repo_name": "*"
-  },
-  {
-    "platform": "intigriti",
     "program": "RIPE NCC",
     "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
     "repo_url": "https://github.com/RIPE-NCC/rpki-commons",
