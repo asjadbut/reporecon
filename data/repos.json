@@ -2566,15 +2566,6 @@
   },
   {
     "platform": "yeswehack",
-    "program": "DINUM - Tchap - Bug Bounty Program",
-    "program_url": null,
-    "repo_url": "https://github.com/tchapgouv",
-    "repo_host": "github.com",
-    "org": "tchapgouv",
-    "repo_name": ""
-  },
-  {
-    "platform": "yeswehack",
     "program": "ExpressVPN - Bug Bounty Program",
     "program_url": null,
     "repo_url": "https://github.com/expressvpn/lightway",
