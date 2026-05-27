@@ -2287,24 +2287,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "Adobe",
-    "program_url": "https://hackerone.com/adobe",
-    "repo_url": "https://github.com/contentauth/c2pa-js",
-    "repo_host": "github.com",
-    "org": "contentauth",
-    "repo_name": "c2pa-js"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Adobe",
-    "program_url": "https://hackerone.com/adobe",
-    "repo_url": "https://github.com/contentauth/c2pa-rs",
-    "repo_host": "github.com",
-    "org": "contentauth",
-    "repo_name": "c2pa-rs"
-  },
-  {
-    "platform": "hackerone",
     "program": "GitLab",
     "program_url": "https://hackerone.com/gitlab",
     "repo_url": "https://gitlab.com/gitlab-org/gitaly",
