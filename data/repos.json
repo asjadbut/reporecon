@@ -2341,15 +2341,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "GitLab",
-    "program_url": "https://hackerone.com/gitlab",
-    "repo_url": "https://gitlab.com/gitlab-org/opstrace/opstrace",
-    "repo_host": "gitlab.com",
-    "org": "gitlab-org",
-    "repo_name": "opstrace/opstrace"
-  },
-  {
-    "platform": "hackerone",
     "program": "Cloudflare Public Bug Bounty",
     "program_url": "https://hackerone.com/cloudflare",
     "repo_url": "https://github.com/cloudflare",
