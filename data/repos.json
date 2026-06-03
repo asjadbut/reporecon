@@ -2545,5 +2545,14 @@
     "repo_host": "github.com",
     "org": "expressvpn",
     "repo_name": "lightway"
+  },
+  {
+    "platform": "yeswehack",
+    "program": "Infomaniak Bug Bounty program",
+    "program_url": null,
+    "repo_url": "https://github.com/Infomaniak/desktop-kDrive",
+    "repo_host": "github.com",
+    "org": "Infomaniak",
+    "repo_name": "desktop-kDrive"
   }
 ]
