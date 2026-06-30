@@ -2143,6 +2143,15 @@
   },
   {
     "platform": "hackerone",
+    "program": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "repo_url": "https://github.com/brave/*,",
+    "repo_host": "github.com",
+    "org": "brave",
+    "repo_name": "*,"
+  },
+  {
+    "platform": "hackerone",
     "program": "RubyGems",
     "program_url": "https://hackerone.com/rubygems",
     "repo_url": "https://github.com/rubygems/rubygems",
@@ -2446,6 +2455,96 @@
     "repo_host": "github.com",
     "org": "digitalocean",
     "repo_name": "doctl"
+  },
+  {
+    "platform": "intigriti",
+    "program": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
+    "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail",
+    "repo_url": "https://github.com/grafana/grafana",
+    "repo_host": "github.com",
+    "org": "grafana",
+    "repo_name": "grafana"
+  },
+  {
+    "platform": "intigriti",
+    "program": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
+    "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail",
+    "repo_url": "https://github.com/grafana/alloy",
+    "repo_host": "github.com",
+    "org": "grafana",
+    "repo_name": "alloy"
+  },
+  {
+    "platform": "intigriti",
+    "program": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
+    "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail",
+    "repo_url": "https://github.com/grafana/faro-web-sdk",
+    "repo_host": "github.com",
+    "org": "grafana",
+    "repo_name": "faro-web-sdk"
+  },
+  {
+    "platform": "intigriti",
+    "program": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
+    "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail",
+    "repo_url": "https://github.com/grafana/k6",
+    "repo_host": "github.com",
+    "org": "grafana",
+    "repo_name": "k6"
+  },
+  {
+    "platform": "intigriti",
+    "program": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
+    "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail",
+    "repo_url": "https://github.com/grafana/beyla",
+    "repo_host": "github.com",
+    "org": "grafana",
+    "repo_name": "beyla"
+  },
+  {
+    "platform": "intigriti",
+    "program": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
+    "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail",
+    "repo_url": "https://github.com/grafana/pyroscope",
+    "repo_host": "github.com",
+    "org": "grafana",
+    "repo_name": "pyroscope"
+  },
+  {
+    "platform": "intigriti",
+    "program": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
+    "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail",
+    "repo_url": "https://github.com/grafana/loki",
+    "repo_host": "github.com",
+    "org": "grafana",
+    "repo_name": "loki"
+  },
+  {
+    "platform": "intigriti",
+    "program": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
+    "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail",
+    "repo_url": "https://github.com/grafana/mimir",
+    "repo_host": "github.com",
+    "org": "grafana",
+    "repo_name": "mimir"
+  },
+  {
+    "platform": "intigriti",
+    "program": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
+    "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail",
+    "repo_url": "https://github.com/grafana/tempo",
+    "repo_host": "github.com",
+    "org": "grafana",
+    "repo_name": "tempo"
+  },
+  {
+    "platform": "intigriti",
+    "program": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
+    "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail",
+    "repo_url": "https://github.com/grafana/*",
+    "repo_host": "github.com",
+    "org": "grafana",
+    "repo_name": "*"
   },
   {
     "platform": "intigriti",
