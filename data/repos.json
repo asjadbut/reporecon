@@ -2125,6 +2125,15 @@
   },
   {
     "platform": "hackerone",
+    "program": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "repo_url": "https://github.com/brave/*,",
+    "repo_host": "github.com",
+    "org": "brave",
+    "repo_name": "*,"
+  },
+  {
+    "platform": "hackerone",
     "program": "RubyGems",
     "program_url": "https://hackerone.com/rubygems",
     "repo_url": "https://github.com/rubygems/rubygems",
