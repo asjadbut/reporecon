@@ -1828,6 +1828,15 @@
   },
   {
     "platform": "hackerone",
+    "program": "DefectDojo",
+    "program_url": "https://hackerone.com/defectdojo",
+    "repo_url": "https://github.com/DefectDojo/django-DefectDojo",
+    "repo_host": "github.com",
+    "org": "DefectDojo",
+    "repo_name": "django-DefectDojo"
+  },
+  {
+    "platform": "hackerone",
     "program": "Dynatrace",
     "program_url": "https://hackerone.com/dynatrace",
     "repo_url": "https://github.com/Dynatrace",
