@@ -2073,10 +2073,100 @@
     "platform": "hackerone",
     "program": "Kiwi.com",
     "program_url": "https://hackerone.com/kiwicom",
-    "repo_url": "https://github.com/kiwicom/*",
+    "repo_url": "https://github.com/kiwicom/flask-ninja",
     "repo_host": "github.com",
     "org": "kiwicom",
-    "repo_name": "*"
+    "repo_name": "flask-ninja"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kiwi.com",
+    "program_url": "https://hackerone.com/kiwicom",
+    "repo_url": "https://github.com/kiwicom/js-iam-middleware",
+    "repo_host": "github.com",
+    "org": "kiwicom",
+    "repo_name": "js-iam-middleware"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kiwi.com",
+    "program_url": "https://hackerone.com/kiwicom",
+    "repo_url": "https://github.com/kiwicom/k8s-vault-operator",
+    "repo_host": "github.com",
+    "org": "kiwicom",
+    "repo_name": "k8s-vault-operator"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kiwi.com",
+    "program_url": "https://hackerone.com/kiwicom",
+    "repo_url": "https://github.com/kiwicom/kiwi-cache",
+    "repo_host": "github.com",
+    "org": "kiwicom",
+    "repo_name": "kiwi-cache"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kiwi.com",
+    "program_url": "https://hackerone.com/kiwicom",
+    "repo_url": "https://github.com/kiwicom/kiwi-json",
+    "repo_host": "github.com",
+    "org": "kiwicom",
+    "repo_name": "kiwi-json"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kiwi.com",
+    "program_url": "https://hackerone.com/kiwicom",
+    "repo_url": "https://github.com/kiwicom/kiwi-structlog-config",
+    "repo_host": "github.com",
+    "org": "kiwicom",
+    "repo_name": "kiwi-structlog-config"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kiwi.com",
+    "program_url": "https://hackerone.com/kiwicom",
+    "repo_url": "https://github.com/kiwicom/konfetti",
+    "repo_host": "github.com",
+    "org": "kiwicom",
+    "repo_name": "konfetti"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kiwi.com",
+    "program_url": "https://hackerone.com/kiwicom",
+    "repo_url": "https://github.com/kiwicom/navigation-compose-typed",
+    "repo_host": "github.com",
+    "org": "kiwicom",
+    "repo_name": "navigation-compose-typed"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kiwi.com",
+    "program_url": "https://hackerone.com/kiwicom",
+    "repo_url": "https://github.com/kiwicom/orbit",
+    "repo_host": "github.com",
+    "org": "kiwicom",
+    "repo_name": "orbit"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kiwi.com",
+    "program_url": "https://hackerone.com/kiwicom",
+    "repo_url": "https://github.com/kiwicom/pg2avro",
+    "repo_host": "github.com",
+    "org": "kiwicom",
+    "repo_name": "pg2avro"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Kiwi.com",
+    "program_url": "https://hackerone.com/kiwicom",
+    "repo_url": "https://github.com/kiwicom/request-session",
+    "repo_host": "github.com",
+    "org": "kiwicom",
+    "repo_name": "request-session"
   },
   {
     "platform": "hackerone",
