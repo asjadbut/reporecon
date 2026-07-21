@@ -640,60 +640,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "AWS VDP",
-    "program_url": "https://hackerone.com/aws_vdp",
-    "repo_url": "https://github.com/kubernetes-sigs/aws-ebs-csi-driver",
-    "repo_host": "github.com",
-    "org": "kubernetes-sigs",
-    "repo_name": "aws-ebs-csi-driver"
-  },
-  {
-    "platform": "hackerone",
-    "program": "AWS VDP",
-    "program_url": "https://hackerone.com/aws_vdp",
-    "repo_url": "https://github.com/kubernetes-sigs/aws-efs-csi-driver",
-    "repo_host": "github.com",
-    "org": "kubernetes-sigs",
-    "repo_name": "aws-efs-csi-driver"
-  },
-  {
-    "platform": "hackerone",
-    "program": "AWS VDP",
-    "program_url": "https://hackerone.com/aws_vdp",
-    "repo_url": "https://github.com/kubernetes-sigs/aws-encryption-provider",
-    "repo_host": "github.com",
-    "org": "kubernetes-sigs",
-    "repo_name": "aws-encryption-provider"
-  },
-  {
-    "platform": "hackerone",
-    "program": "AWS VDP",
-    "program_url": "https://hackerone.com/aws_vdp",
-    "repo_url": "https://github.com/kubernetes-sigs/aws-fsx-csi-driver",
-    "repo_host": "github.com",
-    "org": "kubernetes-sigs",
-    "repo_name": "aws-fsx-csi-driver"
-  },
-  {
-    "platform": "hackerone",
-    "program": "AWS VDP",
-    "program_url": "https://hackerone.com/aws_vdp",
-    "repo_url": "https://github.com/kubernetes-sigs/aws-iam-authenticator",
-    "repo_host": "github.com",
-    "org": "kubernetes-sigs",
-    "repo_name": "aws-iam-authenticator"
-  },
-  {
-    "platform": "hackerone",
-    "program": "AWS VDP",
-    "program_url": "https://hackerone.com/aws_vdp",
-    "repo_url": "https://github.com/kubernetes-sigs/aws-load-balancer-controller",
-    "repo_host": "github.com",
-    "org": "kubernetes-sigs",
-    "repo_name": "aws-load-balancer-controller"
-  },
-  {
-    "platform": "hackerone",
     "program": "Supabase",
     "program_url": "https://hackerone.com/supabase",
     "repo_url": "https://github.com/supabase",
@@ -2073,15 +2019,6 @@
     "platform": "hackerone",
     "program": "Kiwi.com",
     "program_url": "https://hackerone.com/kiwicom",
-    "repo_url": "https://github.com/kiwicom/flask-ninja",
-    "repo_host": "github.com",
-    "org": "kiwicom",
-    "repo_name": "flask-ninja"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Kiwi.com",
-    "program_url": "https://hackerone.com/kiwicom",
     "repo_url": "https://github.com/kiwicom/js-iam-middleware",
     "repo_host": "github.com",
     "org": "kiwicom",
@@ -2221,6 +2158,15 @@
     "repo_host": "github.com",
     "org": "plaid",
     "repo_name": "react-plaid-link"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "repo_url": "https://github.com/brave/*,",
+    "repo_host": "github.com",
+    "org": "brave",
+    "repo_name": "*,"
   },
   {
     "platform": "hackerone",
