@@ -1873,51 +1873,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "Cosmos",
-    "program_url": "https://hackerone.com/cosmos",
-    "repo_url": "https://github.com/cosmos/gaia",
-    "repo_host": "github.com",
-    "org": "cosmos",
-    "repo_name": "gaia"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Cosmos",
-    "program_url": "https://hackerone.com/cosmos",
-    "repo_url": "https://github.com/cosmos/iavl",
-    "repo_host": "github.com",
-    "org": "cosmos",
-    "repo_name": "iavl"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Cosmos",
-    "program_url": "https://hackerone.com/cosmos",
-    "repo_url": "https://github.com/cosmos/ics23",
-    "repo_host": "github.com",
-    "org": "cosmos",
-    "repo_name": "ics23"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Cosmos",
-    "program_url": "https://hackerone.com/cosmos",
-    "repo_url": "https://github.com/cosmos/ledger-cosmos",
-    "repo_host": "github.com",
-    "org": "cosmos",
-    "repo_name": "ledger-cosmos"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Cosmos",
-    "program_url": "https://hackerone.com/cosmos",
-    "repo_url": "https://github.com/cosmos/evm",
-    "repo_host": "github.com",
-    "org": "cosmos",
-    "repo_name": "evm"
-  },
-  {
-    "platform": "hackerone",
     "program": "DuckDuckGo",
     "program_url": "https://hackerone.com/duckduckgo",
     "repo_url": "https://github.com/duckduckgo/duckduckgo-privacy-extension",
@@ -2149,6 +2104,15 @@
     "repo_host": "github.com",
     "org": "plaid",
     "repo_name": "react-plaid-link"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "repo_url": "https://github.com/brave/*,",
+    "repo_host": "github.com",
+    "org": "brave",
+    "repo_name": "*,"
   },
   {
     "platform": "hackerone",
