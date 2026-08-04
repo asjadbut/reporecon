@@ -480,6 +480,24 @@
     "platform": "hackerone",
     "program": "Vercel Open Source",
     "program_url": "https://hackerone.com/vercel-open-source",
+    "repo_url": "https://github.com/vercel/chat",
+    "repo_host": "github.com",
+    "org": "vercel",
+    "repo_name": "chat"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel Open Source",
+    "program_url": "https://hackerone.com/vercel-open-source",
+    "repo_url": "https://github.com/vercel/eve",
+    "repo_host": "github.com",
+    "org": "vercel",
+    "repo_name": "eve"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel Open Source",
+    "program_url": "https://hackerone.com/vercel-open-source",
     "repo_url": "https://github.com/vercel/flags",
     "repo_host": "github.com",
     "org": "vercel",
@@ -1783,6 +1801,15 @@
   },
   {
     "platform": "hackerone",
+    "program": "curl",
+    "program_url": "https://hackerone.com/curl",
+    "repo_url": "https://github.com/curl/curl",
+    "repo_host": "github.com",
+    "org": "curl",
+    "repo_name": "curl"
+  },
+  {
+    "platform": "hackerone",
     "program": "Dynatrace",
     "program_url": "https://hackerone.com/dynatrace",
     "repo_url": "https://github.com/Dynatrace",
@@ -2113,6 +2140,15 @@
     "repo_host": "github.com",
     "org": "plaid",
     "repo_name": "react-plaid-link"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "repo_url": "https://github.com/brave/*,",
+    "repo_host": "github.com",
+    "org": "brave",
+    "repo_name": "*,"
   },
   {
     "platform": "hackerone",
