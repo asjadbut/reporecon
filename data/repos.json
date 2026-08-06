@@ -1144,6 +1144,33 @@
   },
   {
     "platform": "hackerone",
+    "program": "Exodus",
+    "program_url": "https://hackerone.com/exodus",
+    "repo_url": "https://github.com/ExodusOSS/bytes",
+    "repo_host": "github.com",
+    "org": "ExodusOSS",
+    "repo_name": "bytes"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Exodus",
+    "program_url": "https://hackerone.com/exodus",
+    "repo_url": "https://github.com/ExodusOSS/crypto",
+    "repo_host": "github.com",
+    "org": "ExodusOSS",
+    "repo_name": "crypto"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Exodus",
+    "program_url": "https://hackerone.com/exodus",
+    "repo_url": "https://github.com/ExodusOSS/hydra",
+    "repo_host": "github.com",
+    "org": "ExodusOSS",
+    "repo_name": "hydra"
+  },
+  {
+    "platform": "hackerone",
     "program": "Kubernetes",
     "program_url": "https://hackerone.com/kubernetes",
     "repo_url": "https://github.com/kubernetes-csi",
