@@ -946,42 +946,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "Lightspark BBP",
-    "program_url": "https://hackerone.com/lightspark_bbp",
-    "repo_url": "https://github.com/buildonspark/spark",
-    "repo_host": "github.com",
-    "org": "buildonspark",
-    "repo_name": "spark"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Lightspark BBP",
-    "program_url": "https://hackerone.com/lightspark_bbp",
-    "repo_url": "https://github.com/lightsparkdev/go-sdk",
-    "repo_host": "github.com",
-    "org": "lightsparkdev",
-    "repo_name": "go-sdk"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Lightspark BBP",
-    "program_url": "https://hackerone.com/lightspark_bbp",
-    "repo_url": "https://github.com/lightsparkdev/lightspark-rs",
-    "repo_host": "github.com",
-    "org": "lightsparkdev",
-    "repo_name": "lightspark-rs"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Lightspark BBP",
-    "program_url": "https://hackerone.com/lightspark_bbp",
-    "repo_url": "https://github.com/lightsparkdev/python-sdk",
-    "repo_host": "github.com",
-    "org": "lightsparkdev",
-    "repo_name": "python-sdk"
-  },
-  {
-    "platform": "hackerone",
     "program": "Anthropic",
     "program_url": "https://hackerone.com/anthropic",
     "repo_url": "https://github.com/anthropics",
