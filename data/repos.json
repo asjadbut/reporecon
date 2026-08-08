@@ -579,6 +579,15 @@
     "platform": "hackerone",
     "program": "AWS VDP",
     "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/aws-actions/*",
+    "repo_host": "github.com",
+    "org": "aws-actions",
+    "repo_name": "*"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
     "repo_url": "https://github.com/aws-samples",
     "repo_host": "github.com",
     "org": "aws-samples",
@@ -2134,15 +2143,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "Brave Software",
-    "program_url": "https://hackerone.com/brave",
-    "repo_url": "https://github.com/brave/*,",
-    "repo_host": "github.com",
-    "org": "brave",
-    "repo_name": "*,"
-  },
-  {
-    "platform": "hackerone",
     "program": "RubyGems",
     "program_url": "https://hackerone.com/rubygems",
     "repo_url": "https://github.com/rubygems/rubygems",
@@ -2347,6 +2347,24 @@
     "repo_host": "github.com",
     "org": "cloudflare",
     "repo_name": "workerd"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Coinbase",
+    "program_url": "https://hackerone.com/coinbase",
+    "repo_url": "https://github.com/base/*",
+    "repo_host": "github.com",
+    "org": "base",
+    "repo_name": "*"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Coinbase",
+    "program_url": "https://hackerone.com/coinbase",
+    "repo_url": "https://github.com/coinbase/*",
+    "repo_host": "github.com",
+    "org": "coinbase",
+    "repo_name": "*"
   },
   {
     "platform": "hackerone",
