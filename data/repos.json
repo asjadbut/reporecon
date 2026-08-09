@@ -2422,15 +2422,6 @@
   },
   {
     "platform": "intigriti",
-    "program": "CM.com",
-    "program_url": "https://www.intigriti.com/programs/cmcom/cmcom/detail",
-    "repo_url": "https://github.com/cmdotcom",
-    "repo_host": "github.com",
-    "org": "cmdotcom",
-    "repo_name": ""
-  },
-  {
-    "platform": "intigriti",
     "program": "DigitalOcean",
     "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
     "repo_url": "https://github.com/digitalocean/do-agent",
