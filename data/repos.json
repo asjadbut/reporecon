@@ -2647,6 +2647,15 @@
   },
   {
     "platform": "yeswehack",
+    "program": "ExpressVPN - Bug Bounty Program",
+    "program_url": null,
+    "repo_url": "https://github.com/expressvpn/wolfssl-rs",
+    "repo_host": "github.com",
+    "org": "expressvpn",
+    "repo_name": "wolfssl-rs"
+  },
+  {
+    "platform": "yeswehack",
     "program": "Infomaniak Bug Bounty program",
     "program_url": null,
     "repo_url": "https://github.com/Infomaniak/desktop-kDrive",
