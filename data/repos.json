@@ -1819,15 +1819,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "phpBB",
-    "program_url": "https://hackerone.com/phpbb",
-    "repo_url": "https://github.com/phpbb/phpbb",
-    "repo_host": "github.com",
-    "org": "phpbb",
-    "repo_name": "phpbb"
-  },
-  {
-    "platform": "hackerone",
     "program": "Matomo",
     "program_url": "https://hackerone.com/matomo",
     "repo_url": "https://github.com/innocraft",
@@ -2140,6 +2131,15 @@
     "repo_host": "github.com",
     "org": "plaid",
     "repo_name": "react-plaid-link"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "repo_url": "https://github.com/brave/*,",
+    "repo_host": "github.com",
+    "org": "brave",
+    "repo_name": "*,"
   },
   {
     "platform": "hackerone",
