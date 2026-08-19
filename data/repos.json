@@ -2458,6 +2458,15 @@
   },
   {
     "platform": "intigriti",
+    "program": "European Space Agency (ESA) VDP",
+    "program_url": "https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail",
+    "repo_url": "https://github.com/ESA",
+    "repo_host": "github.com",
+    "org": "ESA",
+    "repo_name": ""
+  },
+  {
+    "platform": "intigriti",
     "program": "Grafana Labs - Vulnerability Disclosure Program (VDP)",
     "program_url": "https://www.intigriti.com/programs/grafanalabs/grafanalabsvdp/detail",
     "repo_url": "https://github.com/grafana/grafana",
