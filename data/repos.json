@@ -1945,51 +1945,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "Weblate",
-    "program_url": "https://hackerone.com/weblate",
-    "repo_url": "https://github.com/WeblateOrg/docker",
-    "repo_host": "github.com",
-    "org": "WeblateOrg",
-    "repo_name": "docker"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Weblate",
-    "program_url": "https://hackerone.com/weblate",
-    "repo_url": "https://github.com/WeblateOrg/translation-finder",
-    "repo_host": "github.com",
-    "org": "WeblateOrg",
-    "repo_name": "translation-finder"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Weblate",
-    "program_url": "https://hackerone.com/weblate",
-    "repo_url": "https://github.com/WeblateOrg/weblate",
-    "repo_host": "github.com",
-    "org": "WeblateOrg",
-    "repo_name": "weblate"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Weblate",
-    "program_url": "https://hackerone.com/weblate",
-    "repo_url": "https://github.com/WeblateOrg/website",
-    "repo_host": "github.com",
-    "org": "WeblateOrg",
-    "repo_name": "website"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Weblate",
-    "program_url": "https://hackerone.com/weblate",
-    "repo_url": "https://github.com/WeblateOrg/wlc",
-    "repo_host": "github.com",
-    "org": "WeblateOrg",
-    "repo_name": "wlc"
-  },
-  {
-    "platform": "hackerone",
     "program": "Kiwi.com",
     "program_url": "https://hackerone.com/kiwicom",
     "repo_url": "https://github.com/kiwicom/js-iam-middleware",
