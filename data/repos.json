@@ -1839,6 +1839,15 @@
     "platform": "hackerone",
     "program": "Matomo",
     "program_url": "https://hackerone.com/matomo",
+    "repo_url": "https://github.com/matomo-org/developer-documentation",
+    "repo_host": "github.com",
+    "org": "matomo-org",
+    "repo_name": "developer-documentation"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Matomo",
+    "program_url": "https://hackerone.com/matomo",
     "repo_url": "https://github.com/matomo-org/docker",
     "repo_host": "github.com",
     "org": "matomo-org",
@@ -1852,6 +1861,15 @@
     "repo_host": "github.com",
     "org": "matomo-org",
     "repo_name": "matomo"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Matomo",
+    "program_url": "https://hackerone.com/matomo",
+    "repo_url": "https://github.com/matomo-org/tracker-proxy",
+    "repo_host": "github.com",
+    "org": "matomo-org",
+    "repo_name": "tracker-proxy"
   },
   {
     "platform": "hackerone",
