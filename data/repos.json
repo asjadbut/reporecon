@@ -1018,6 +1018,15 @@
   },
   {
     "platform": "hackerone",
+    "program": "OKG",
+    "program_url": "https://hackerone.com/okg",
+    "repo_url": "https://github.com/okx/go-wallet-sdk",
+    "repo_host": "github.com",
+    "org": "okx",
+    "repo_name": "go-wallet-sdk"
+  },
+  {
+    "platform": "hackerone",
     "program": "TRON DAO",
     "program_url": "https://hackerone.com/tron_dao",
     "repo_url": "https://github.com/tronprotocol/java-tron",
