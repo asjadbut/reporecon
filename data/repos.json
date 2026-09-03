@@ -100,69 +100,6 @@
   },
   {
     "platform": "bugcrowd",
-    "program": "Block Open Source",
-    "program_url": "https://bugcrowd.com/engagements/blockopensource",
-    "repo_url": "https://github.com/afterpay/sdk-ios",
-    "repo_host": "github.com",
-    "org": "afterpay",
-    "repo_name": "sdk-ios"
-  },
-  {
-    "platform": "bugcrowd",
-    "program": "Block Open Source",
-    "program_url": "https://bugcrowd.com/engagements/blockopensource",
-    "repo_url": "https://github.com/afterpay/sdk-android",
-    "repo_host": "github.com",
-    "org": "afterpay",
-    "repo_name": "sdk-android"
-  },
-  {
-    "platform": "bugcrowd",
-    "program": "Block Open Source",
-    "program_url": "https://bugcrowd.com/engagements/blockopensource",
-    "repo_url": "https://github.com/cashapp/cash-app-pay-ios-sdk",
-    "repo_host": "github.com",
-    "org": "cashapp",
-    "repo_name": "cash-app-pay-ios-sdk"
-  },
-  {
-    "platform": "bugcrowd",
-    "program": "Block Open Source",
-    "program_url": "https://bugcrowd.com/engagements/blockopensource",
-    "repo_url": "https://github.com/cashapp/cash-app-pay-android-sdk",
-    "repo_host": "github.com",
-    "org": "cashapp",
-    "repo_name": "cash-app-pay-android-sdk"
-  },
-  {
-    "platform": "bugcrowd",
-    "program": "Block Open Source",
-    "program_url": "https://bugcrowd.com/engagements/blockopensource",
-    "repo_url": "https://github.com/cashapp/hermit",
-    "repo_host": "github.com",
-    "org": "cashapp",
-    "repo_name": "hermit"
-  },
-  {
-    "platform": "bugcrowd",
-    "program": "Block Open Source",
-    "program_url": "https://bugcrowd.com/engagements/blockopensource",
-    "repo_url": "https://github.com/cashapp/misk",
-    "repo_host": "github.com",
-    "org": "cashapp",
-    "repo_name": "misk"
-  },
-  {
-    "platform": "bugcrowd",
-    "program": "Block Open Source",
-    "program_url": "https://bugcrowd.com/engagements/blockopensource",
-    "repo_url": "https://github.com/square/wire",
-    "repo_host": "github.com",
-    "org": "square",
-    "repo_name": "wire"
-  },
-  {
-    "platform": "bugcrowd",
     "program": "ClickHouse",
     "program_url": "https://bugcrowd.com/engagements/clickhouse",
     "repo_url": "https://github.com/ClickHouse/ClickHouse",
@@ -349,15 +286,6 @@
     "repo_host": "github.com",
     "org": "OctopusDeploy",
     "repo_name": ""
-  },
-  {
-    "platform": "bugcrowd",
-    "program": "OpenSea Managed Bug Bounty Program",
-    "program_url": "https://bugcrowd.com/engagements/opensea",
-    "repo_url": "https://github.com/ProjectOpenSea/seaport#deployments",
-    "repo_host": "github.com",
-    "org": "ProjectOpenSea",
-    "repo_name": "seaport#deployments"
   },
   {
     "platform": "bugcrowd",
