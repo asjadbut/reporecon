@@ -2172,6 +2172,15 @@
     "platform": "hackerone",
     "program": "Basecamp",
     "program_url": "https://hackerone.com/basecamp",
+    "repo_url": "https://github.com/basecamp/trix",
+    "repo_host": "github.com",
+    "org": "basecamp",
+    "repo_name": "trix"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Basecamp",
+    "program_url": "https://hackerone.com/basecamp",
     "repo_url": "https://github.com/basecamp/writebook",
     "repo_host": "github.com",
     "org": "basecamp",
