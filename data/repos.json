@@ -1720,6 +1720,15 @@
   },
   {
     "platform": "hackerone",
+    "program": "GoCardless Bug Bounty Program",
+    "program_url": "https://hackerone.com/gocardless_bbp",
+    "repo_url": "https://github.com/gocardless",
+    "repo_host": "github.com",
+    "org": "gocardless",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
     "program": "Solidus",
     "program_url": "https://hackerone.com/solidus",
     "repo_url": "https://github.com/solidusio/solidus",
