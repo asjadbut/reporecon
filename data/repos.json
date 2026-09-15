@@ -624,24 +624,6 @@
     "platform": "hackerone",
     "program": "Circle BBP",
     "program_url": "https://hackerone.com/circle-bbp",
-    "repo_url": "https://github.com/circlefin/arc-node",
-    "repo_host": "github.com",
-    "org": "circlefin",
-    "repo_name": "arc-node"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Circle BBP",
-    "program_url": "https://hackerone.com/circle-bbp",
-    "repo_url": "https://github.com/circlefin/arc-remote-signer",
-    "repo_host": "github.com",
-    "org": "circlefin",
-    "repo_name": "arc-remote-signer"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Circle BBP",
-    "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/buidl-wallet-contracts",
     "repo_host": "github.com",
     "org": "circlefin",
@@ -682,15 +664,6 @@
     "repo_host": "github.com",
     "org": "circlefin",
     "repo_name": "evm-xreserve-contracts"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Circle BBP",
-    "program_url": "https://hackerone.com/circle-bbp",
-    "repo_url": "https://github.com/circlefin/malachite",
-    "repo_host": "github.com",
-    "org": "circlefin",
-    "repo_name": "malachite"
   },
   {
     "platform": "hackerone",
@@ -2113,6 +2086,15 @@
     "repo_host": "github.com",
     "org": "plaid",
     "repo_name": "react-plaid-link"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "repo_url": "https://github.com/brave/*,",
+    "repo_host": "github.com",
+    "org": "brave",
+    "repo_name": "*,"
   },
   {
     "platform": "hackerone",
