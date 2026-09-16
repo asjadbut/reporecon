@@ -955,6 +955,33 @@
   },
   {
     "platform": "hackerone",
+    "program": "Arc BBP",
+    "program_url": "https://hackerone.com/arc-bbp",
+    "repo_url": "https://github.com/circlefin/arc-node",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "arc-node"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Arc BBP",
+    "program_url": "https://hackerone.com/arc-bbp",
+    "repo_url": "https://github.com/circlefin/arc-remote-signer",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "arc-remote-signer"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Arc BBP",
+    "program_url": "https://hackerone.com/arc-bbp",
+    "repo_url": "https://github.com/circlefin/malachite",
+    "repo_host": "github.com",
+    "org": "circlefin",
+    "repo_name": "malachite"
+  },
+  {
+    "platform": "hackerone",
     "program": "PagerDuty",
     "program_url": "https://hackerone.com/pagerduty",
     "repo_url": "https://github.com/rundeck/rundeck",
