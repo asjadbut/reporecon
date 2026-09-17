@@ -604,7 +604,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/noble-cctp",
     "repo_host": "github.com",
@@ -613,7 +613,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/aptos-cctp",
     "repo_host": "github.com",
@@ -622,7 +622,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/buidl-wallet-contracts",
     "repo_host": "github.com",
@@ -631,7 +631,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/evm-cctp-contracts",
     "repo_host": "github.com",
@@ -640,7 +640,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/evm-cpn-contracts",
     "repo_host": "github.com",
@@ -649,7 +649,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/evm-gateway-contracts",
     "repo_host": "github.com",
@@ -658,7 +658,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/evm-xreserve-contracts",
     "repo_host": "github.com",
@@ -667,7 +667,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/noble-fiattokenfactory",
     "repo_host": "github.com",
@@ -676,7 +676,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/solana-cctp-contracts",
     "repo_host": "github.com",
@@ -685,7 +685,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/solana-gateway-contracts",
     "repo_host": "github.com",
@@ -694,7 +694,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/stablecoin-aptos",
     "repo_host": "github.com",
@@ -703,7 +703,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/stablecoin-evm",
     "repo_host": "github.com",
@@ -712,7 +712,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/stablecoin-near",
     "repo_host": "github.com",
@@ -721,7 +721,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/stablecoin-starknet",
     "repo_host": "github.com",
@@ -730,7 +730,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/stablecoin-sui",
     "repo_host": "github.com",
@@ -739,7 +739,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/stablecoin-xlm",
     "repo_host": "github.com",
@@ -748,7 +748,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/starknet-cctp",
     "repo_host": "github.com",
@@ -757,7 +757,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/stellar-cctp",
     "repo_host": "github.com",
@@ -766,7 +766,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Circle BBP",
+    "program": "Circle",
     "program_url": "https://hackerone.com/circle-bbp",
     "repo_url": "https://github.com/circlefin/sui-cctp",
     "repo_host": "github.com",
@@ -955,7 +955,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Arc BBP",
+    "program": "Arc",
     "program_url": "https://hackerone.com/arc-bbp",
     "repo_url": "https://github.com/circlefin/arc-node",
     "repo_host": "github.com",
@@ -964,7 +964,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Arc BBP",
+    "program": "Arc",
     "program_url": "https://hackerone.com/arc-bbp",
     "repo_url": "https://github.com/circlefin/arc-remote-signer",
     "repo_host": "github.com",
@@ -973,7 +973,7 @@
   },
   {
     "platform": "hackerone",
-    "program": "Arc BBP",
+    "program": "Arc",
     "program_url": "https://hackerone.com/arc-bbp",
     "repo_url": "https://github.com/circlefin/malachite",
     "repo_host": "github.com",
