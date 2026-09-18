@@ -2548,6 +2548,15 @@
   },
   {
     "platform": "intigriti",
+    "program": "Posten Bring Responsible Disclosure",
+    "program_url": "https://www.intigriti.com/programs/postenbringas/vdp/detail",
+    "repo_url": "https://github.com/digipost",
+    "repo_host": "github.com",
+    "org": "digipost",
+    "repo_name": ""
+  },
+  {
+    "platform": "intigriti",
     "program": "RIPE NCC",
     "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
     "repo_url": "https://github.com/RIPE-NCC/rpki-commons",
