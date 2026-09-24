@@ -397,6 +397,51 @@
   },
   {
     "platform": "hackerone",
+    "program": "Nebius AI Vulnerability Disclosure",
+    "program_url": "https://hackerone.com/nebius_ai_vdp",
+    "repo_url": "https://github.com/nebius/gosdk",
+    "repo_host": "github.com",
+    "org": "nebius",
+    "repo_name": "gosdk"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Nebius AI Vulnerability Disclosure",
+    "program_url": "https://hackerone.com/nebius_ai_vdp",
+    "repo_url": "https://github.com/nebius/js-sdk",
+    "repo_host": "github.com",
+    "org": "nebius",
+    "repo_name": "js-sdk"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Nebius AI Vulnerability Disclosure",
+    "program_url": "https://hackerone.com/nebius_ai_vdp",
+    "repo_url": "https://github.com/nebius/nebius-observability-agent-updater",
+    "repo_host": "github.com",
+    "org": "nebius",
+    "repo_name": "nebius-observability-agent-updater"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Nebius AI Vulnerability Disclosure",
+    "program_url": "https://hackerone.com/nebius_ai_vdp",
+    "repo_url": "https://github.com/nebius/pysdk",
+    "repo_host": "github.com",
+    "org": "nebius",
+    "repo_name": "pysdk"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Nebius AI Vulnerability Disclosure",
+    "program_url": "https://hackerone.com/nebius_ai_vdp",
+    "repo_url": "https://github.com/nebius/terraform-provider-nebius",
+    "repo_host": "github.com",
+    "org": "nebius",
+    "repo_name": "terraform-provider-nebius"
+  },
+  {
+    "platform": "hackerone",
     "program": "AWS VDP",
     "program_url": "https://hackerone.com/aws_vdp",
     "repo_url": "https://github.com/amazon-research",
@@ -2208,9 +2253,9 @@
     "platform": "hackerone",
     "program": "WordPress",
     "program_url": "https://hackerone.com/wordpress",
-    "repo_url": "https://github.com/WordPress",
+    "repo_url": "https://github.com/wordpress",
     "repo_host": "github.com",
-    "org": "WordPress",
+    "org": "wordpress",
     "repo_name": ""
   },
   {
@@ -2676,28 +2721,10 @@
     "platform": "intigriti",
     "program": "RIPE NCC",
     "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
-    "repo_url": "https://github.com/RIPE-NCC/rpki-publication-server",
-    "repo_host": "github.com",
-    "org": "RIPE-NCC",
-    "repo_name": "rpki-publication-server"
-  },
-  {
-    "platform": "intigriti",
-    "program": "RIPE NCC",
-    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
     "repo_url": "https://github.com/RIPE-NCC/rpki-ta-0",
     "repo_host": "github.com",
     "org": "RIPE-NCC",
     "repo_name": "rpki-ta-0"
-  },
-  {
-    "platform": "intigriti",
-    "program": "RIPE NCC",
-    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
-    "repo_url": "https://github.com/RIPE-NCC/rsyncit",
-    "repo_host": "github.com",
-    "org": "RIPE-NCC",
-    "repo_name": "rsyncit"
   },
   {
     "platform": "intigriti",
