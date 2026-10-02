@@ -334,6 +334,15 @@
   },
   {
     "platform": "hackerone",
+    "program": "Omarchy",
+    "program_url": "https://hackerone.com/omarchy",
+    "repo_url": "https://github.com/omacom/omarchy",
+    "repo_host": "github.com",
+    "org": "omacom",
+    "repo_name": "omarchy"
+  },
+  {
+    "platform": "hackerone",
     "program": "Nebius AI Vulnerability Disclosure",
     "program_url": "https://hackerone.com/nebius_ai_vdp",
     "repo_url": "https://github.com/nebius/gosdk",
@@ -483,6 +492,15 @@
     "repo_url": "https://github.com/awslabs/*",
     "repo_host": "github.com",
     "org": "awslabs",
+    "repo_name": "*"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/strands-agents/*",
+    "repo_host": "github.com",
+    "org": "strands-agents",
     "repo_name": "*"
   },
   {
