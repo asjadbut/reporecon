@@ -2179,6 +2179,15 @@
   },
   {
     "platform": "hackerone",
+    "program": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "repo_url": "https://github.com/brave/*,",
+    "repo_host": "github.com",
+    "org": "brave",
+    "repo_name": "*,"
+  },
+  {
+    "platform": "hackerone",
     "program": "RubyGems",
     "program_url": "https://hackerone.com/rubygems",
     "repo_url": "https://github.com/rubygems/rubygems",
@@ -2622,15 +2631,6 @@
     "platform": "intigriti",
     "program": "RIPE NCC",
     "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
-    "repo_url": "https://github.com/RIPE-NCC/rpki-commons",
-    "repo_host": "github.com",
-    "org": "RIPE-NCC",
-    "repo_name": "rpki-commons"
-  },
-  {
-    "platform": "intigriti",
-    "program": "RIPE NCC",
-    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
     "repo_url": "https://github.com/RIPE-NCC/rpki-core",
     "repo_host": "github.com",
     "org": "RIPE-NCC",
@@ -2662,6 +2662,15 @@
     "repo_host": "github.com",
     "org": "RIPE-NCC",
     "repo_name": "rpki-ta-0"
+  },
+  {
+    "platform": "intigriti",
+    "program": "RIPE NCC",
+    "program_url": "https://www.intigriti.com/programs/ripencc/ripencc/detail",
+    "repo_url": "https://github.com/RIPE-NCC/rpki-commons",
+    "repo_host": "github.com",
+    "org": "RIPE-NCC",
+    "repo_name": "rpki-commons"
   },
   {
     "platform": "intigriti",
