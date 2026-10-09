@@ -1981,6 +1981,15 @@
   },
   {
     "platform": "hackerone",
+    "program": "Bitwarden",
+    "program_url": "https://hackerone.com/bitwarden",
+    "repo_url": "https://github.com/bitwarden/server",
+    "repo_host": "github.com",
+    "org": "bitwarden",
+    "repo_name": "server"
+  },
+  {
+    "platform": "hackerone",
     "program": "Spotify",
     "program_url": "https://hackerone.com/spotify",
     "repo_url": "https://github.com/backstage/backstage",
