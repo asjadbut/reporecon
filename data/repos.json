@@ -388,6 +388,213 @@
   },
   {
     "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/segmentio",
+    "repo_host": "github.com",
+    "org": "segmentio",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/sendgrid",
+    "repo_host": "github.com",
+    "org": "sendgrid",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/is-agent",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "is-agent"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/samlshield",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "samlshield"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/stytch-android",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "stytch-android"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/stytch-browser",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "stytch-browser"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/stytch-dotnet",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "stytch-dotnet"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/stytch-go",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "stytch-go"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/stytch-ios",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "stytch-ios"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/stytch-ios-dfp",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "stytch-ios-dfp"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/stytch-java",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "stytch-java"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/stytch-management-go",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "stytch-management-go"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/stytch-management-python",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "stytch-management-python"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/stytch-mobile",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "stytch-mobile"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/stytch-node",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "stytch-node"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/stytch-php",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "stytch-php"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/stytch-python",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "stytch-python"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/stytch-ruby",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "stytch-ruby"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/stytch-rust",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "stytch-rust"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth/terraform-provider-stytch",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": "terraform-provider-stytch"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/twilio",
+    "repo_host": "github.com",
+    "org": "twilio",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/twilio-labs",
+    "repo_host": "github.com",
+    "org": "twilio-labs",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Twilio",
+    "program_url": "https://hackerone.com/twilio",
+    "repo_url": "https://github.com/stytchauth",
+    "repo_host": "github.com",
+    "org": "stytchauth",
+    "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
     "program": "AWS VDP",
     "program_url": "https://hackerone.com/aws_vdp",
     "repo_url": "https://github.com/amazon-research",
@@ -492,6 +699,15 @@
     "repo_url": "https://github.com/awslabs/*",
     "repo_host": "github.com",
     "org": "awslabs",
+    "repo_name": "*"
+  },
+  {
+    "platform": "hackerone",
+    "program": "AWS VDP",
+    "program_url": "https://hackerone.com/aws_vdp",
+    "repo_url": "https://github.com/deepjavalibrary/*",
+    "repo_host": "github.com",
+    "org": "deepjavalibrary",
     "repo_name": "*"
   },
   {
@@ -2131,6 +2347,15 @@
     "repo_host": "github.com",
     "org": "plaid",
     "repo_name": "react-plaid-link"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "repo_url": "https://github.com/brave/*,",
+    "repo_host": "github.com",
+    "org": "brave",
+    "repo_name": "*,"
   },
   {
     "platform": "hackerone",
