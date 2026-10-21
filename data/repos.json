@@ -1110,6 +1110,15 @@
     "platform": "hackerone",
     "program": "Vercel",
     "program_url": "https://hackerone.com/vercel",
+    "repo_url": "https://github.com/sveltejs/kit",
+    "repo_host": "github.com",
+    "org": "sveltejs",
+    "repo_name": "kit"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel",
+    "program_url": "https://hackerone.com/vercel",
     "repo_url": "https://github.com/sveltejs/svelte",
     "repo_host": "github.com",
     "org": "sveltejs",
@@ -2467,6 +2476,33 @@
   },
   {
     "platform": "hackerone",
+    "program": "Basecamp",
+    "program_url": "https://hackerone.com/basecamp",
+    "repo_url": "https://github.com/basecamp/once-campfire",
+    "repo_host": "github.com",
+    "org": "basecamp",
+    "repo_name": "once-campfire"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Basecamp",
+    "program_url": "https://hackerone.com/basecamp",
+    "repo_url": "https://github.com/basecamp/trix",
+    "repo_host": "github.com",
+    "org": "basecamp",
+    "repo_name": "trix"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Basecamp",
+    "program_url": "https://hackerone.com/basecamp",
+    "repo_url": "https://github.com/basecamp/writebook",
+    "repo_host": "github.com",
+    "org": "basecamp",
+    "repo_name": "writebook"
+  },
+  {
+    "platform": "hackerone",
     "program": "Shopify",
     "program_url": "https://hackerone.com/shopify",
     "repo_url": "https://github.com/Shopify/*",
@@ -2770,69 +2806,6 @@
     "repo_host": "github.com",
     "org": "grafana",
     "repo_name": "*"
-  },
-  {
-    "platform": "intigriti",
-    "program": "Lightspark Public Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
-    "repo_url": "https://github.com/buildonspark/spark",
-    "repo_host": "github.com",
-    "org": "buildonspark",
-    "repo_name": "spark"
-  },
-  {
-    "platform": "intigriti",
-    "program": "Lightspark Public Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
-    "repo_url": "https://github.com/lightsparkdev/kotlin-sdk",
-    "repo_host": "github.com",
-    "org": "lightsparkdev",
-    "repo_name": "kotlin-sdk"
-  },
-  {
-    "platform": "intigriti",
-    "program": "Lightspark Public Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
-    "repo_url": "https://github.com/lightsparkdev/js-sdk",
-    "repo_host": "github.com",
-    "org": "lightsparkdev",
-    "repo_name": "js-sdk"
-  },
-  {
-    "platform": "intigriti",
-    "program": "Lightspark Public Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
-    "repo_url": "https://github.com/lightsparkdev/flutter-sdk",
-    "repo_host": "github.com",
-    "org": "lightsparkdev",
-    "repo_name": "flutter-sdk"
-  },
-  {
-    "platform": "intigriti",
-    "program": "Lightspark Public Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
-    "repo_url": "https://github.com/lightsparkdev/go-sdk",
-    "repo_host": "github.com",
-    "org": "lightsparkdev",
-    "repo_name": "go-sdk"
-  },
-  {
-    "platform": "intigriti",
-    "program": "Lightspark Public Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
-    "repo_url": "https://github.com/lightsparkdev/lightspark-rs",
-    "repo_host": "github.com",
-    "org": "lightsparkdev",
-    "repo_name": "lightspark-rs"
-  },
-  {
-    "platform": "intigriti",
-    "program": "Lightspark Public Bug Bounty",
-    "program_url": "https://www.intigriti.com/programs/lightspark/lightsparkpublicbugbounty/detail",
-    "repo_url": "https://github.com/lightsparkdev/python-sdk",
-    "repo_host": "github.com",
-    "org": "lightsparkdev",
-    "repo_name": "python-sdk"
   },
   {
     "platform": "intigriti",
