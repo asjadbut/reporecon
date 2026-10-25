@@ -2251,33 +2251,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "Rocket.Chat",
-    "program_url": "https://hackerone.com/rocket_chat",
-    "repo_url": "https://github.com/RocketChat/Rocket.Chat",
-    "repo_host": "github.com",
-    "org": "RocketChat",
-    "repo_name": "Rocket.Chat"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Rocket.Chat",
-    "program_url": "https://hackerone.com/rocket_chat",
-    "repo_url": "https://github.com/RocketChat/Rocket.Chat.Electron",
-    "repo_host": "github.com",
-    "org": "RocketChat",
-    "repo_name": "Rocket.Chat.Electron"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Rocket.Chat",
-    "program_url": "https://hackerone.com/rocket_chat",
-    "repo_url": "https://github.com/RocketChat/Rocket.Chat.ReactNative",
-    "repo_host": "github.com",
-    "org": "RocketChat",
-    "repo_name": "Rocket.Chat.ReactNative"
-  },
-  {
-    "platform": "hackerone",
     "program": "Weblate",
     "program_url": "https://hackerone.com/weblate",
     "repo_url": "https://github.com/WeblateOrg/docker",
@@ -2869,15 +2842,6 @@
     "repo_host": "github.com",
     "org": "RedBullSecurity",
     "repo_name": "3eb88debcb01759eccf65ec2b799b340"
-  },
-  {
-    "platform": "intigriti",
-    "program": "Uphold",
-    "program_url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
-    "repo_url": "https://github.com/uphold/*",
-    "repo_host": "github.com",
-    "org": "uphold",
-    "repo_name": "*"
   },
   {
     "platform": "yeswehack",
