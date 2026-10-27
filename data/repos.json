@@ -2017,24 +2017,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "Solidus",
-    "program_url": "https://hackerone.com/solidus",
-    "repo_url": "https://github.com/solidusio/solidus",
-    "repo_host": "github.com",
-    "org": "solidusio",
-    "repo_name": "solidus"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Solidus",
-    "program_url": "https://hackerone.com/solidus",
-    "repo_url": "https://github.com/solidusio/solidus_auth_devise",
-    "repo_host": "github.com",
-    "org": "solidusio",
-    "repo_name": "solidus_auth_devise"
-  },
-  {
-    "platform": "hackerone",
     "program": "DefectDojo",
     "program_url": "https://hackerone.com/defectdojo",
     "repo_url": "https://github.com/DefectDojo/django-DefectDojo",
@@ -2350,6 +2332,15 @@
   },
   {
     "platform": "hackerone",
+    "program": "Brave Software",
+    "program_url": "https://hackerone.com/brave",
+    "repo_url": "https://github.com/brave/*,",
+    "repo_host": "github.com",
+    "org": "brave",
+    "repo_name": "*,"
+  },
+  {
+    "platform": "hackerone",
     "program": "RubyGems",
     "program_url": "https://hackerone.com/rubygems",
     "repo_url": "https://github.com/rubygems/rubygems",
@@ -2602,15 +2593,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "Concrete CMS",
-    "program_url": "https://hackerone.com/concretecms",
-    "repo_url": "https://github.com/concrete5/concrete5",
-    "repo_host": "github.com",
-    "org": "concrete5",
-    "repo_name": "concrete5"
-  },
-  {
-    "platform": "hackerone",
     "program": "Slack",
     "program_url": "https://hackerone.com/slack",
     "repo_url": "https://github.com/slackhq/nebula",
@@ -2842,6 +2824,15 @@
     "repo_host": "github.com",
     "org": "RedBullSecurity",
     "repo_name": "3eb88debcb01759eccf65ec2b799b340"
+  },
+  {
+    "platform": "intigriti",
+    "program": "Uphold",
+    "program_url": "https://www.intigriti.com/programs/Uphold/upholdcom/detail",
+    "repo_url": "https://github.com/uphold/*",
+    "repo_host": "github.com",
+    "org": "uphold",
+    "repo_name": "*"
   },
   {
     "platform": "yeswehack",
