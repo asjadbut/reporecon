@@ -2161,6 +2161,15 @@
   },
   {
     "platform": "hackerone",
+    "program": "Databricks",
+    "program_url": "https://hackerone.com/databricks",
+    "repo_url": "https://github.com/databricks/*",
+    "repo_host": "github.com",
+    "org": "databricks",
+    "repo_name": "*"
+  },
+  {
+    "platform": "hackerone",
     "program": "Valve",
     "program_url": "https://hackerone.com/valve",
     "repo_url": "https://github.com/valvesoftware",
