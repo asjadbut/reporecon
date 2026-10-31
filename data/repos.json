@@ -586,15 +586,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "Twilio",
-    "program_url": "https://hackerone.com/twilio",
-    "repo_url": "https://github.com/stytchauth",
-    "repo_host": "github.com",
-    "org": "stytchauth",
-    "repo_name": ""
-  },
-  {
-    "platform": "hackerone",
     "program": "AWS VDP",
     "program_url": "https://hackerone.com/aws_vdp",
     "repo_url": "https://github.com/amazon-research",
@@ -1078,6 +1069,15 @@
     "repo_host": "github.com",
     "org": "USStateDept",
     "repo_name": ""
+  },
+  {
+    "platform": "hackerone",
+    "program": "Vercel",
+    "program_url": "https://hackerone.com/vercel",
+    "repo_url": "https://github.com/better-auth/better-auth",
+    "repo_host": "github.com",
+    "org": "better-auth",
+    "repo_name": "better-auth"
   },
   {
     "platform": "hackerone",
