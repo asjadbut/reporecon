@@ -2692,15 +2692,6 @@
   },
   {
     "platform": "intigriti",
-    "program": "DigitalOcean",
-    "program_url": "https://www.intigriti.com/programs/digitalocean/digitalocean/detail",
-    "repo_url": "https://github.com/digitalocean/terraform-provider-digitalocean",
-    "repo_host": "github.com",
-    "org": "digitalocean",
-    "repo_name": "terraform-provider-digitalocean"
-  },
-  {
-    "platform": "intigriti",
     "program": "European Space Agency (ESA) VDP",
     "program_url": "https://www.intigriti.com/programs/europeanspaceagency/europeanspaceagencyvdp/detail",
     "repo_url": "https://github.com/ESA",
