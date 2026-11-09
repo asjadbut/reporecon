@@ -1342,6 +1342,69 @@
   },
   {
     "platform": "hackerone",
+    "program": "Oasis Protocol Foundation",
+    "program_url": "https://hackerone.com/oasisprotocol",
+    "repo_url": "https://github.com/oasisprotocol/explorer",
+    "repo_host": "github.com",
+    "org": "oasisprotocol",
+    "repo_name": "explorer"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Oasis Protocol Foundation",
+    "program_url": "https://hackerone.com/oasisprotocol",
+    "repo_url": "https://github.com/oasisprotocol/curve25519-voi",
+    "repo_host": "github.com",
+    "org": "oasisprotocol",
+    "repo_name": "curve25519-voi"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Oasis Protocol Foundation",
+    "program_url": "https://hackerone.com/oasisprotocol",
+    "repo_url": "https://github.com/oasisprotocol/deoxysii",
+    "repo_host": "github.com",
+    "org": "oasisprotocol",
+    "repo_name": "deoxysii"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Oasis Protocol Foundation",
+    "program_url": "https://hackerone.com/oasisprotocol",
+    "repo_url": "https://github.com/oasisprotocol/deoxysii-rust",
+    "repo_host": "github.com",
+    "org": "oasisprotocol",
+    "repo_name": "deoxysii-rust"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Oasis Protocol Foundation",
+    "program_url": "https://hackerone.com/oasisprotocol",
+    "repo_url": "https://github.com/oasisprotocol/oasis-core",
+    "repo_host": "github.com",
+    "org": "oasisprotocol",
+    "repo_name": "oasis-core"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Oasis Protocol Foundation",
+    "program_url": "https://hackerone.com/oasisprotocol",
+    "repo_url": "https://github.com/oasisprotocol/oasis-sdk",
+    "repo_host": "github.com",
+    "org": "oasisprotocol",
+    "repo_name": "oasis-sdk"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Oasis Protocol Foundation",
+    "program_url": "https://hackerone.com/oasisprotocol",
+    "repo_url": "https://github.com/oasisprotocol/oasis-wallet-web",
+    "repo_host": "github.com",
+    "org": "oasisprotocol",
+    "repo_name": "oasis-wallet-web"
+  },
+  {
+    "platform": "hackerone",
     "program": "Exodus",
     "program_url": "https://hackerone.com/exodus",
     "repo_url": "https://github.com/ExodusOSS/bytes",
