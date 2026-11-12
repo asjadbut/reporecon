@@ -2422,15 +2422,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "RubyGems",
-    "program_url": "https://hackerone.com/rubygems",
-    "repo_url": "https://github.com/rubygems/rubygems",
-    "repo_host": "github.com",
-    "org": "rubygems",
-    "repo_name": "rubygems"
-  },
-  {
-    "platform": "hackerone",
     "program": "WordPress",
     "program_url": "https://hackerone.com/wordpress",
     "repo_url": "https://github.com/wordpress",
