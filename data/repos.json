@@ -91,15 +91,6 @@
   },
   {
     "platform": "bugcrowd",
-    "program": "Binance",
-    "program_url": "https://bugcrowd.com/engagements/binance",
-    "repo_url": "https://github.com/trustwallet/wallet-core",
-    "repo_host": "github.com",
-    "org": "trustwallet",
-    "repo_name": "wallet-core/"
-  },
-  {
-    "platform": "bugcrowd",
     "program": "ClickHouse",
     "program_url": "https://bugcrowd.com/engagements/clickhouse",
     "repo_url": "https://github.com/ClickHouse/ClickHouse",
