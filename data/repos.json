@@ -577,6 +577,33 @@
   },
   {
     "platform": "hackerone",
+    "program": "Northern.tech",
+    "program_url": "https://hackerone.com/northerntechhq",
+    "repo_url": "https://github.com/cfengine/core",
+    "repo_host": "github.com",
+    "org": "cfengine",
+    "repo_name": "core"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Northern.tech",
+    "program_url": "https://hackerone.com/northerntechhq",
+    "repo_url": "https://github.com/mendersoftware/mender",
+    "repo_host": "github.com",
+    "org": "mendersoftware",
+    "repo_name": "mender"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Northern.tech",
+    "program_url": "https://hackerone.com/northerntechhq",
+    "repo_url": "https://github.com/mendersoftware/mender-server",
+    "repo_host": "github.com",
+    "org": "mendersoftware",
+    "repo_name": "mender-server"
+  },
+  {
+    "platform": "hackerone",
     "program": "AWS VDP",
     "program_url": "https://hackerone.com/aws_vdp",
     "repo_url": "https://github.com/amazon-research",
@@ -1333,69 +1360,6 @@
   },
   {
     "platform": "hackerone",
-    "program": "Oasis Protocol Foundation",
-    "program_url": "https://hackerone.com/oasisprotocol",
-    "repo_url": "https://github.com/oasisprotocol/explorer",
-    "repo_host": "github.com",
-    "org": "oasisprotocol",
-    "repo_name": "explorer"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Oasis Protocol Foundation",
-    "program_url": "https://hackerone.com/oasisprotocol",
-    "repo_url": "https://github.com/oasisprotocol/curve25519-voi",
-    "repo_host": "github.com",
-    "org": "oasisprotocol",
-    "repo_name": "curve25519-voi"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Oasis Protocol Foundation",
-    "program_url": "https://hackerone.com/oasisprotocol",
-    "repo_url": "https://github.com/oasisprotocol/deoxysii",
-    "repo_host": "github.com",
-    "org": "oasisprotocol",
-    "repo_name": "deoxysii"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Oasis Protocol Foundation",
-    "program_url": "https://hackerone.com/oasisprotocol",
-    "repo_url": "https://github.com/oasisprotocol/deoxysii-rust",
-    "repo_host": "github.com",
-    "org": "oasisprotocol",
-    "repo_name": "deoxysii-rust"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Oasis Protocol Foundation",
-    "program_url": "https://hackerone.com/oasisprotocol",
-    "repo_url": "https://github.com/oasisprotocol/oasis-core",
-    "repo_host": "github.com",
-    "org": "oasisprotocol",
-    "repo_name": "oasis-core"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Oasis Protocol Foundation",
-    "program_url": "https://hackerone.com/oasisprotocol",
-    "repo_url": "https://github.com/oasisprotocol/oasis-sdk",
-    "repo_host": "github.com",
-    "org": "oasisprotocol",
-    "repo_name": "oasis-sdk"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Oasis Protocol Foundation",
-    "program_url": "https://hackerone.com/oasisprotocol",
-    "repo_url": "https://github.com/oasisprotocol/oasis-wallet-web",
-    "repo_host": "github.com",
-    "org": "oasisprotocol",
-    "repo_name": "oasis-wallet-web"
-  },
-  {
-    "platform": "hackerone",
     "program": "Exodus",
     "program_url": "https://hackerone.com/exodus",
     "repo_url": "https://github.com/ExodusOSS/bytes",
@@ -2080,6 +2044,24 @@
   },
   {
     "platform": "hackerone",
+    "program": "Solidus",
+    "program_url": "https://hackerone.com/solidus",
+    "repo_url": "https://github.com/solidusio/solidus",
+    "repo_host": "github.com",
+    "org": "solidusio",
+    "repo_name": "solidus"
+  },
+  {
+    "platform": "hackerone",
+    "program": "Solidus",
+    "program_url": "https://hackerone.com/solidus",
+    "repo_url": "https://github.com/solidusio/solidus_auth_devise",
+    "repo_host": "github.com",
+    "org": "solidusio",
+    "repo_name": "solidus_auth_devise"
+  },
+  {
+    "platform": "hackerone",
     "program": "DefectDojo",
     "program_url": "https://hackerone.com/defectdojo",
     "repo_url": "https://github.com/DefectDojo/django-DefectDojo",
@@ -2239,60 +2221,6 @@
     "repo_host": "github.com",
     "org": "valvesoftware",
     "repo_name": ""
-  },
-  {
-    "platform": "hackerone",
-    "program": "Bitwarden",
-    "program_url": "https://hackerone.com/bitwarden",
-    "repo_url": "https://github.com/bitwarden",
-    "repo_host": "github.com",
-    "org": "bitwarden",
-    "repo_name": ""
-  },
-  {
-    "platform": "hackerone",
-    "program": "Bitwarden",
-    "program_url": "https://hackerone.com/bitwarden",
-    "repo_url": "https://github.com/bitwarden/android",
-    "repo_host": "github.com",
-    "org": "bitwarden",
-    "repo_name": "android"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Bitwarden",
-    "program_url": "https://hackerone.com/bitwarden",
-    "repo_url": "https://github.com/bitwarden/clients",
-    "repo_host": "github.com",
-    "org": "bitwarden",
-    "repo_name": "clients"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Bitwarden",
-    "program_url": "https://hackerone.com/bitwarden",
-    "repo_url": "https://github.com/bitwarden/ios",
-    "repo_host": "github.com",
-    "org": "bitwarden",
-    "repo_name": "ios"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Bitwarden",
-    "program_url": "https://hackerone.com/bitwarden",
-    "repo_url": "https://github.com/bitwarden/sdk-internal",
-    "repo_host": "github.com",
-    "org": "bitwarden",
-    "repo_name": "sdk-internal"
-  },
-  {
-    "platform": "hackerone",
-    "program": "Bitwarden",
-    "program_url": "https://hackerone.com/bitwarden",
-    "repo_url": "https://github.com/bitwarden/server",
-    "repo_host": "github.com",
-    "org": "bitwarden",
-    "repo_name": "server"
   },
   {
     "platform": "hackerone",
